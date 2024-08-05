@@ -1,0 +1,3587 @@
+1.png, Put food on the plate .
+2.png, Put food on the plate .
+3.png, Put food on the plate .
+4.png, Put food on the plate .
+5.png, Put food on the plate .
+6.png, Put food on the plate .
+7.png, Put food on the plate .
+8.png, Put food on the plate .
+9.png, Put food on the plate .
+10.png, Put food on the plate .
+11.png, Put food on the plate .
+12.png, Put food on the plate .
+13.png, Put food on the plate .
+14.png, Put food on the plate .
+15.png, Put food on the plate .
+16.png, Put food on the plate .
+17.png, Put food on the plate .
+18.png, Put food on the plate .
+19.png, Put food on the plate .
+20.png, Put food on the plate .
+21.png, Put food on the plate .
+22.png, Put food on the plate .
+23.png, Put food on the plate .
+24.png, Put food on the plate .
+25.png, Put food on the plate .
+26.png, Put food on the plate .
+27.png, Put food on the plate .
+28.png, Put food on the plate .
+29.png, Put food on the plate .
+30.png, Put food on the plate .
+31.png, Put food on the plate .
+32.png, Put food on the plate .
+33.png, Put food on the plate .
+34.png, Put food on the plate .
+35.png, Put food on the plate .
+36.png, Put food on the plate .
+37.png, Put food on the plate .
+38.png, Put food on the plate .
+39.png, Put food on the plate .
+40.png, Put food on the plate .
+41.png, Put food on the plate .
+42.png, Put food on the plate .
+43.png, Put food on the plate .
+44.png, Throw the paper in the trash .
+45.png, Throw the paper in the trash .
+46.png, Throw the paper in the trash .
+47.png, Throw the paper in the trash .
+48.png, Throw the paper in the trash .
+49.png, Throw the paper in the trash .
+50.png, Throw the paper in the trash .
+51.png, Throw the paper in the trash .
+52.png, Throw the paper in the trash .
+53.png, Throw the paper in the trash .
+54.png, Clean up various tableware .
+55.png, Clean up various tableware .
+56.png, Clean up various tableware .
+57.png, Clean up various tableware .
+58.png, Clean up various tableware .
+59.png, Clean up various tableware .
+60.png, Clean up various tableware .
+61.png, Clean up various tableware .
+62.png, Clean up various tableware .
+63.png, Clean up various tableware .
+64.png, Clean up various tableware .
+65.png, Clean up various tableware .
+66.png, Clean up various tableware .
+67.png, Clean up various tableware .
+68.png, Clean up various tableware .
+69.png, Clean up various tableware .
+70.png, Clean up various tableware .
+71.png, Clean up various tableware .
+72.png, Clean up various tableware .
+73.png, Clean up various tableware .
+74.png, Clean up various tableware .
+75.png, Clean up various tableware .
+76.png, Clean up various tableware .
+77.png, Clean up various tableware .
+78.png, Clean up various tableware .
+79.png, Clean up various tableware .
+80.png, Clean up various tableware .
+81.png, Put food in the box .
+82.png, Put food in the box .
+83.png, Put food in the box .
+84.png, Put food in the box .
+85.png, Put food in the box .
+86.png, Put food in the box .
+87.png, Put food in the box .
+88.png, Put food in the box .
+89.png, Put food in the box .
+90.png, Put food in the box .
+91.png, Put food in the box .
+92.png, Put food in the box .
+93.png, Put food in the box .
+97.png, Cutting food with a knife .
+98.png, Cutting food with a knife .
+99.png, Cutting food with a knife .
+100.png, Cutting food with a knife .
+101.png, Cutting food with a knife .
+102.png, Cutting food with a knife .
+103.png, Put food in the box .
+104.png, Put food in the box .
+105.png, Put food in the box .
+122.png, Cleaning kitchen utensils in the sink .
+123.png, Cleaning kitchen utensils in the sink .
+124.png, Cleaning kitchen utensils in the sink .
+125.png, Cleaning kitchen utensils in the sink .
+126.png, Cleaning kitchen utensils in the sink .
+127.png, Cleaning kitchen utensils in the sink .
+128.png, Cleaning kitchen utensils in the sink .
+129.png, Cleaning kitchen utensils in the sink .
+130.png, Cleaning kitchen utensils in the sink .
+131.png, Cleaning kitchen utensils in the sink .
+132.png, Cleaning kitchen utensils in the sink .
+133.png, Cleaning kitchen utensils in the sink .
+134.png, Cleaning kitchen utensils in the sink .
+135.png, Cleaning kitchen utensils in the sink .
+136.png, Cleaning kitchen utensils in the sink .
+137.png, Cleaning kitchen utensils in the sink .
+138.png, Cleaning kitchen utensils in the sink .
+139.png, Cleaning kitchen utensils in the sink .
+140.png, Cleaning kitchen utensils in the sink .
+141.png, Cleaning kitchen utensils in the sink .
+142.png, Cleaning kitchen utensils in the sink .
+143.png, Cleaning kitchen utensils in the sink .
+144.png, Cleaning kitchen utensils in the sink .
+145.png, Cleaning kitchen utensils in the sink .
+146.png, Cleaning kitchen utensils in the sink .
+147.png, Cleaning kitchen utensils in the sink .
+148.png, Cleaning kitchen utensils in the sink .
+149.png, Cleaning kitchen utensils in the sink .
+150.png, Cleaning kitchen utensils in the sink .
+151.png, Cleaning kitchen utensils in the sink .
+152.png, Cleaning kitchen utensils in the sink .
+153.png, Cleaning kitchen utensils in the sink .
+154.png, Cleaning kitchen utensils in the sink .
+155.png, Cleaning kitchen utensils in the sink .
+156.png, Cleaning kitchen utensils in the sink .
+157.png, Cleaning kitchen utensils in the sink .
+158.png, Cleaning kitchen utensils in the sink .
+159.png, Cleaning kitchen utensils in the sink .
+160.png, Cleaning kitchen utensils in the sink .
+161.png, Cleaning kitchen utensils in the sink .
+162.png, Cleaning kitchen utensils in the sink .
+163.png, Cleaning kitchen utensils in the sink .
+164.png, Cleaning kitchen utensils in the sink .
+165.png, Cleaning kitchen utensils in the sink .
+166.png, Cleaning kitchen utensils in the sink .
+167.png, Cleaning kitchen utensils in the sink .
+168.png, Cleaning kitchen utensils in the sink .
+169.png, Cleaning kitchen utensils in the sink .
+170.png, Cleaning kitchen utensils in the sink .
+171.png, Cleaning kitchen utensils in the sink .
+172.png, Cleaning kitchen utensils in the sink .
+173.png, Cleaning kitchen utensils in the sink .
+174.png, Cleaning kitchen utensils in the sink .
+175.png, Cleaning kitchen utensils in the sink .
+176.png, Cleaning kitchen utensils in the sink .
+177.png, Cleaning kitchen utensils in the sink .
+178.png, Cleaning kitchen utensils in the sink .
+179.png, Cleaning kitchen utensils in the sink .
+180.png, Cleaning kitchen utensils in the sink .
+181.png, Cleaning kitchen utensils in the sink .
+182.png, Cleaning kitchen utensils in the sink .
+183.png, Cleaning kitchen utensils in the sink .
+184.png, Cleaning kitchen utensils in the sink .
+185.png, Cleaning kitchen utensils in the sink .
+186.png, Cleaning kitchen utensils in the sink .
+187.png, Cleaning kitchen utensils in the sink .
+188.png, Cleaning kitchen utensils in the sink .
+189.png, Cleaning kitchen utensils in the sink .
+190.png, Cleaning kitchen utensils in the sink .
+191.png, Cleaning kitchen utensils in the sink .
+192.png, Cleaning kitchen utensils in the sink .
+193.png, Cleaning kitchen utensils in the sink .
+194.png, Cleaning kitchen utensils in the sink .
+195.png, Cleaning kitchen utensils in the sink .
+196.png, Cleaning kitchen utensils in the sink .
+197.png, Cleaning kitchen utensils in the sink .
+198.png, Cleaning kitchen utensils in the sink .
+199.png, Cleaning kitchen utensils in the sink .
+200.png, Cleaning kitchen utensils in the sink .
+201.png, Cleaning kitchen utensils in the sink .
+202.png, Cleaning kitchen utensils in the sink .
+203.png, Cleaning kitchen utensils in the sink .
+204.png, Cleaning kitchen utensils in the sink .
+205.png, Cleaning kitchen utensils in the sink .
+206.png, Cleaning kitchen utensils in the sink .
+212.png, Cleaning kitchen utensils in the sink .
+213.png, Cleaning kitchen utensils in the sink .
+214.png, Cleaning kitchen utensils in the sink .
+215.png, Cleaning kitchen utensils in the sink .
+216.png, Cleaning kitchen utensils in the sink .
+217.png, Cleaning kitchen utensils in the sink .
+218.png, Cleaning kitchen utensils in the sink .
+219.png, Cleaning kitchen utensils in the sink .
+220.png, Cleaning kitchen utensils in the sink .
+221.png, Cleaning kitchen utensils in the sink .
+222.png, Cleaning kitchen utensils in the sink .
+223.png, Cleaning kitchen utensils in the sink .
+224.png, Cleaning kitchen utensils in the sink .
+225.png, Cleaning kitchen utensils in the sink .
+226.png, Cleaning kitchen utensils in the sink .
+227.png, Cleaning kitchen utensils in the sink .
+228.png, Cleaning kitchen utensils in the sink .
+229.png, Cleaning kitchen utensils in the sink .
+230.png, Cleaning kitchen utensils in the sink .
+231.png, Cleaning kitchen utensils in the sink .
+232.png, Cleaning kitchen utensils in the sink .
+233.png, Cleaning kitchen utensils in the sink .
+234.png, Cleaning kitchen utensils in the sink .
+235.png, Cleaning kitchen utensils in the sink .
+236.png, Cleaning kitchen utensils in the sink .
+237.png, Cleaning kitchen utensils in the sink .
+238.png, Cleaning kitchen utensils in the sink .
+239.png, Cleaning kitchen utensils in the sink .
+240.png, Cleaning kitchen utensils in the sink .
+241.png, Cleaning kitchen utensils in the sink .
+242.png, Cleaning kitchen utensils in the sink .
+243.png, Cleaning kitchen utensils in the sink .
+244.png, Cleaning kitchen utensils in the sink .
+245.png, Cleaning kitchen utensils in the sink .
+246.png, Cleaning kitchen utensils in the sink .
+247.png, Cleaning kitchen utensils in the sink .
+248.png, Cleaning kitchen utensils in the sink .
+249.png, Cleaning kitchen utensils in the sink .
+250.png, Cleaning kitchen utensils in the sink .
+251.png, Cleaning kitchen utensils in the sink .
+252.png, Cleaning kitchen utensils in the sink .
+253.png, Cleaning kitchen utensils in the sink .
+254.png, Cleaning kitchen utensils in the sink .
+255.png, Cleaning kitchen utensils in the sink .
+256.png, Cleaning kitchen utensils in the sink .
+257.png, Cleaning kitchen utensils in the sink .
+258.png, Cleaning kitchen utensils in the sink .
+259.png, Cleaning kitchen utensils in the sink .
+260.png, Cleaning kitchen utensils in the sink .
+261.png, Cleaning kitchen utensils in the sink .
+262.png, Cleaning kitchen utensils in the sink .
+263.png, Cleaning kitchen utensils in the sink .
+264.png, Cleaning kitchen utensils in the sink .
+265.png, Cleaning kitchen utensils in the sink .
+266.png, Cleaning kitchen utensils in the sink .
+267.png, Cleaning kitchen utensils in the sink .
+268.png, Cleaning kitchen utensils in the sink .
+269.png, Cleaning kitchen utensils in the sink .
+270.png, Cleaning kitchen utensils in the sink .
+271.png, Cleaning kitchen utensils in the sink .
+272.png, Cleaning kitchen utensils in the sink .
+273.png, Cleaning kitchen utensils in the sink .
+274.png, Cleaning kitchen utensils in the sink .
+275.png, Cleaning kitchen utensils in the sink .
+276.png, Cleaning kitchen utensils in the sink .
+277.png, Cleaning kitchen utensils in the sink .
+278.png, Cleaning kitchen utensils in the sink .
+279.png, Cleaning kitchen utensils in the sink .
+280.png, Cleaning kitchen utensils in the sink .
+281.png, Cleaning kitchen utensils in the sink .
+282.png, Cleaning kitchen utensils in the sink .
+283.png, Cleaning kitchen utensils in the sink .
+284.png, Cleaning kitchen utensils in the sink .
+285.png, Cleaning kitchen utensils in the sink .
+286.png, Cleaning kitchen utensils in the sink .
+287.png, Cleaning kitchen utensils in the sink .
+288.png, Cleaning kitchen utensils in the sink .
+289.png, Cleaning kitchen utensils in the sink .
+290.png, Cleaning kitchen utensils in the sink .
+291.png, Cleaning kitchen utensils in the sink .
+292.png, Cleaning kitchen utensils in the sink .
+293.png, Cleaning kitchen utensils in the sink .
+294.png, Cleaning kitchen utensils in the sink .
+295.png, Cleaning kitchen utensils in the sink .
+296.png, Cleaning kitchen utensils in the sink .
+297.png, Cleaning kitchen utensils in the sink .
+298.png, Cleaning kitchen utensils in the sink .
+299.png, Cleaning kitchen utensils in the sink .
+300.png, Cleaning kitchen utensils in the sink .
+301.png, Cleaning kitchen utensils in the sink .
+302.png, Cleaning kitchen utensils in the sink .
+303.png, Cleaning kitchen utensils in the sink .
+304.png, Cleaning kitchen utensils in the sink .
+305.png, Cleaning kitchen utensils in the sink .
+306.png, Cleaning kitchen utensils in the sink .
+307.png, Cleaning kitchen utensils in the sink .
+308.png, Cleaning kitchen utensils in the sink .
+309.png, Cleaning kitchen utensils in the sink .
+310.png, Cleaning kitchen utensils in the sink .
+311.png, Cleaning kitchen utensils in the sink .
+312.png, Cleaning kitchen utensils in the sink .
+313.png, Cleaning kitchen utensils in the sink .
+314.png, Cleaning kitchen utensils in the sink .
+315.png, Cleaning kitchen utensils in the sink .
+316.png, Cleaning kitchen utensils in the sink .
+317.png, Cleaning kitchen utensils in the sink .
+318.png, Cleaning kitchen utensils in the sink .
+319.png, Cleaning kitchen utensils in the sink .
+320.png, Cleaning kitchen utensils in the sink .
+321.png, Cleaning kitchen utensils in the sink .
+322.png, Cleaning kitchen utensils in the sink .
+323.png, Cleaning kitchen utensils in the sink .
+324.png, Cleaning kitchen utensils in the sink .
+325.png, Cleaning kitchen utensils in the sink .
+326.png, Cleaning kitchen utensils in the sink .
+327.png, Cleaning kitchen utensils in the sink .
+328.png, Cleaning kitchen utensils in the sink .
+329.png, Cleaning kitchen utensils in the sink .
+330.png, Cleaning kitchen utensils in the sink .
+331.png, Cleaning kitchen utensils in the sink .
+332.png, Cleaning kitchen utensils in the sink .
+333.png, Cleaning kitchen utensils in the sink .
+334.png, Cleaning kitchen utensils in the sink .
+335.png, Cleaning kitchen utensils in the sink .
+336.png, Cleaning kitchen utensils in the sink .
+337.png, Cleaning kitchen utensils in the sink .
+338.png, Clean the sink and tabletop with a rag .
+339.png, Clean the sink and tabletop with a rag .
+340.png, Clean the sink and tabletop with a rag .
+341.png, Clean the sink and tabletop with a rag .
+342.png, Clean the sink and tabletop with a rag .
+343.png, Clean the sink and tabletop with a rag .
+344.png, Clean the sink and tabletop with a rag .
+345.png, Clean the sink and tabletop with a rag .
+346.png, Clean the sink and tabletop with a rag .
+347.png, Clean the sink and tabletop with a rag .
+348.png, Clean the sink and tabletop with a rag .
+349.png, Clean the sink and tabletop with a rag .
+350.png, Clean the sink and tabletop with a rag .
+351.png, Clean the sink and tabletop with a rag .
+352.png, Clean the sink and tabletop with a rag .
+353.png, Clean the sink and tabletop with a rag .
+354.png, Clean the sink and tabletop with a rag .
+355.png, Clean the sink and tabletop with a rag .
+356.png, Clean the sink and tabletop with a rag .
+357.png, Clean the sink and tabletop with a rag .
+358.png, Clean the sink and tabletop with a rag .
+359.png, Clean the sink and tabletop with a rag .
+360.png, Clean the sink and tabletop with a rag .
+361.png, Clean the sink and tabletop with a rag .
+362.png, Clean the sink and tabletop with a rag .
+363.png, Clean the sink and tabletop with a rag .
+364.png, Clean the sink and tabletop with a rag .
+365.png, Clean the sink and tabletop with a rag .
+366.png, Clean the sink and tabletop with a rag .
+367.png, Clean the sink and tabletop with a rag .
+368.png, Clean the sink and tabletop with a rag .
+370.png, Clean the sink and tabletop with a rag .
+373.png, Clean the stove with a rag .
+374.png, Clean the stove with a rag .
+375.png, Clean the stove with a rag .
+376.png, Clean the stove with a rag .
+377.png, Clean the stove with a rag .
+378.png, Clean the stove with a rag .
+379.png, Clean the stove with a rag .
+380.png, Clean the stove with a rag .
+381.png, Clean the stove with a rag .
+390.png, Dry your hands with a towel .
+391.png, Dry your hands with a towel .
+392.png, Dry your hands with a towel .
+402.png, Throw the can into the trash .
+403.png, Cleaning the Trash .
+404.png, Cleaning the Trash .
+405.png, Cleaning the Trash .
+406.png, Cleaning the Trash .
+407.png, Cleaning the Trash .
+408.png, Cleaning the Trash .
+409.png, Cleaning the Trash .
+410.png, Cleaning the Trash .
+411.png, Cleaning the Trash .
+412.png, Cleaning the Trash .
+413.png, Cleaning the Trash .
+414.png, Cleaning the Trash .
+415.png, Cleaning the Trash .
+416.png, Cleaning the Trash .
+417.png, Cleaning the Trash .
+418.png, Cleaning the Trash .
+419.png, Cleaning the Trash .
+420.png, Cleaning the Trash .
+421.png, Cleaning the Trash .
+422.png, Cleaning the Trash .
+423.png, Cleaning the Trash .
+424.png, Cleaning the Trash .
+425.png, Cleaning the Trash .
+426.png, Cleaning the Trash .
+427.png, Cleaning the Trash .
+428.png, Cleaning the Trash .
+429.png, Cleaning the Trash .
+430.png, Cleaning the Trash .
+431.png, Cleaning the Trash .
+432.png, Cleaning the Trash .
+433.png, Cleaning the Trash .
+434.png, Cleaning the Trash .
+435.png, Cleaning the Trash .
+436.png, Cleaning the Trash .
+437.png, Cleaning the Trash .
+438.png, Cleaning the Trash .
+439.png, Cleaning the Trash .
+440.png, Cleaning the Trash .
+441.png, Cleaning the Trash .
+442.png, Cleaning the Trash .
+443.png, Cleaning the Trash .
+444.png, Cleaning the Trash .
+445.png, Cleaning the Trash .
+446.png, Cleaning the Trash .
+447.png, Cleaning the Trash .
+448.png, Cleaning the Trash .
+449.png, Cleaning the Trash .
+450.png, Cleaning the Trash .
+451.png, Cleaning the Trash .
+452.png, Cleaning the Trash .
+453.png, Cleaning the Trash .
+454.png, Cleaning the Trash .
+455.png, Cleaning the Trash .
+456.png, Cleaning the Trash .
+457.png, Cleaning the Trash .
+458.png, Cleaning the Trash .
+459.png, Cleaning the Trash .
+460.png, Cleaning the Trash .
+461.png, Cleaning the Trash .
+462.png, Cleaning the Trash .
+463.png, Cleaning the Trash .
+464.png, Cleaning the Trash .
+465.png, Cleaning the Trash .
+466.png, Cleaning the Trash .
+467.png, Cleaning the Trash .
+468.png, Cleaning the Trash .
+469.png, Cleaning the Trash .
+470.png, Cleaning the Trash .
+471.png, Cleaning the Trash .
+472.png, Cleaning the Trash .
+473.png, Cleaning the Trash .
+474.png, Cleaning the Trash .
+475.png, Cleaning the Trash .
+476.png, Cleaning the Trash .
+477.png, Cleaning the Trash .
+478.png, Cleaning the Trash .
+479.png, Cleaning the Trash .
+480.png, Cleaning the Trash .
+481.png, Cleaning the Trash .
+482.png, Cleaning the Trash .
+483.png, Cleaning the Trash .
+484.png, Cleaning the Trash .
+485.png, Cleaning the Trash .
+486.png, Cleaning the Trash .
+487.png, Cleaning the Trash .
+488.png, Cleaning the Trash .
+489.png, Cleaning the Trash .
+490.png, Cleaning the Trash .
+495.png, Replace the garbage bags in the trash cans .
+496.png, Replace the garbage bags in the trash cans .
+497.png, Replace the garbage bags in the trash cans .
+498.png, Replace the garbage bags in the trash cans .
+499.png, Replace the garbage bags in the trash cans .
+500.png, Replace the garbage bags in the trash cans .
+501.png, Replace the garbage bags in the trash cans .
+502.png, Replace the garbage bags in the trash cans .
+503.png, Replace the garbage bags in the trash cans .
+504.png, Replace the garbage bags in the trash cans .
+505.png, Replace the garbage bags in the trash cans .
+506.png, Replace the garbage bags in the trash cans .
+507.png, Replace the garbage bags in the trash cans .
+508.png, Replace the garbage bags in the trash cans .
+509.png, Replace the garbage bags in the trash cans .
+510.png, Replace the garbage bags in the trash cans .
+511.png, Replace the garbage bags in the trash cans .
+512.png, Replace the garbage bags in the trash cans .
+513.png, Replace the garbage bags in the trash cans .
+514.png, Replace the garbage bags in the trash cans .
+515.png, Replace the garbage bags in the trash cans .
+516.png, Replace the garbage bags in the trash cans .
+517.png, Replace the garbage bags in the trash cans .
+518.png, Replace the garbage bags in the trash cans .
+519.png, Replace the garbage bags in the trash cans .
+520.png, Replace the garbage bags in the trash cans .
+521.png, Replace the garbage bags in the trash cans .
+522.png, Replace the garbage bags in the trash cans .
+523.png, Replace the garbage bags in the trash cans .
+524.png, Replace the garbage bags in the trash cans .
+525.png, Replace the garbage bags in the trash cans .
+526.png, Replace the garbage bags in the trash cans .
+527.png, Replace the garbage bags in the trash cans .
+528.png, Replace the garbage bags in the trash cans .
+529.png, Replace the garbage bags in the trash cans .
+530.png, Replace the garbage bags in the trash cans .
+531.png, Replace the garbage bags in the trash cans .
+532.png, Replace the garbage bags in the trash cans .
+535.png, Put lids on food containers .
+536.png, Put lids on food containers .
+537.png, Put lids on food containers .
+538.png, Put lids on food containers .
+539.png, Put lids on food containers .
+540.png, Pick up the plate with pizza .
+541.png, Pick up the plate with pizza .
+542.png, Pick up the plate with pizza .
+543.png, Pick up the plate with the pizza and open the refrigerator .
+544.png, Pick up the plate with the pizza and open the refrigerator .
+545.png, Pick up the plate with the pizza and open the refrigerator .
+546.png, Pick up the plate with the pizza and open the refrigerator .
+547.png, Pick up the plate with the pizza and open the refrigerator .
+548.png, Pick up the plate with the pizza and open the refrigerator .
+549.png, Pick up the plate with the pizza and open the refrigerator .
+550.png, Pick up the plate with the pizza and open the refrigerator .
+551.png, Put food in the refrigerator .
+552.png, Put food in the refrigerator .
+553.png, Put food in the refrigerator .
+557.png, Close the refrigerator door .
+558.png, Close the refrigerator door .
+564.png, Open the lid .
+565.png, Open the lid .
+568.png, Flipping food in a frying pan with a spatula .
+569.png, Flipping food in a frying pan with a spatula .
+570.png, Flipping food in a frying pan with a spatula .
+571.png, Flipping food in a frying pan with a spatula .
+572.png, Flipping food in a frying pan with a spatula .
+573.png, Flipping food in a frying pan with a spatula .
+574.png, Flipping food in a frying pan with a spatula .
+575.png, Flipping food in a frying pan with a spatula .
+576.png, Flipping food in a frying pan with a spatula .
+577.png, Flipping food in a frying pan with a spatula .
+578.png, Flipping food in a frying pan with a spatula .
+579.png, Flipping food in a frying pan with a spatula .
+580.png, Flipping food in a frying pan with a spatula .
+581.png, Flipping food in a frying pan with a spatula .
+582.png, Flipping food in a frying pan with a spatula .
+583.png, Flipping food in a frying pan with a spatula .
+584.png, Flipping food in a frying pan with a spatula .
+585.png, Flipping food in a frying pan with a spatula .
+586.png, Flipping food in a frying pan with a spatula .
+587.png, Flipping food in a frying pan with a spatula .
+592.png, Fork the food in the pot .
+593.png, Fork the food in the pot .
+604.png, Flipping food in a frying pan with a spatula .
+605.png, Flipping food in a frying pan with a spatula .
+608.png, Turn off the heat .
+620.png, Open the refrigerator .
+621.png, Open the refrigerator .
+622.png, Open the refrigerator .
+627.png, Open the bread packaging .
+628.png, Open the bread packaging .
+629.png, Open the bread packaging .
+630.png, Open the bread packaging .
+631.png, Put the bread in the toaster. .
+632.png, Put the bread in the toaster. .
+633.png, Put the bread in the toaster. .
+634.png, Put the bread in the toaster. .
+637.png, Open the refrigerator .
+638.png, Open the refrigerator .
+639.png, Open the refrigerator .
+640.png, Open the refrigerator .
+641.png, Open the refrigerator .
+643.png, Pick up the backpack .
+644.png, Take something out of your bag .
+645.png, Take something out of your bag .
+651.png, Take something out of the refrigerator .
+652.png, Take something out of the refrigerator .
+656.png, Take the dishes out of the cupboard .
+658.png, Put down the plate .
+681.png, Take the cup from the cupboard .
+682.png, Pick up the cup and walk to the sink .
+686.png, Take something out of the refrigerator .
+690.png, Open the juice .
+691.png, Open the juice .
+692.png, Open the juice .
+693.png, Pour the juice into the glass .
+694.png, Pour the juice into the glass .
+695.png, Pour the juice into the glass .
+696.png, Pour the juice into the glass .
+697.png, Pour the juice into the glass .
+698.png, Pour the juice into the glass .
+699.png, Pour the juice into the glass .
+700.png, Pour the juice into the glass .
+701.png, Pour the juice into the glass .
+704.png, Put the juice in the refrigerator .
+762.png, Take out kitchenware from the cupboard .
+763.png, Take out kitchenware from the cupboard .
+764.png, Take out kitchenware from the cupboard .
+769.png, Take out kitchenware from the cupboard .
+772.png, Pick up the knife from the cutting board .
+773.png, Pick up the knife from the cutting board .
+778.png, Pick up the pot on the table .
+779.png, Pick up the pot on the table .
+780.png, Pick up the pot on the table .
+781.png, Pick up the pot on the table .
+782.png, Pick up the pot on the table .
+786.png, Lift the pot lid off the table .
+787.png, Put the lid on the pot .
+788.png, Put the lid on the pot .
+789.png, Put the lid on the pot .
+797.png, Open cans on the table .
+798.png, Open cans on the table .
+799.png, Open cans on the table .
+800.png, Open cans on the table .
+801.png, Open cans on the table .
+802.png, Open cans on the table .
+803.png, Open cans on the table .
+804.png, Open cans on the table .
+805.png, Open cans on the table .
+806.png, Open cans on the table .
+807.png, Open cans on the table .
+808.png, Open cans on the table .
+809.png, Open cans on the table .
+810.png, Open cans on the table .
+811.png, Open cans on the table .
+812.png, Open cans on the table .
+813.png, Open cans on the table .
+814.png, Open cans on the table .
+815.png, Open cans on the table .
+816.png, Open cans on the table .
+817.png, Open cans on the table .
+818.png, Open cans on the table .
+819.png, Open cans on the table .
+820.png, Open cans on the table .
+821.png, Open cans on the table .
+822.png, Open cans on the table .
+823.png, Open cans on the table .
+824.png, Open cans on the table .
+825.png, Open cans on the table .
+826.png, Open cans on the table .
+827.png, Open cans on the table .
+828.png, Open cans on the table .
+829.png, Open cans on the table .
+830.png, Open cans on the table .
+831.png, Open cans on the table .
+832.png, Open cans on the table .
+833.png, Open cans on the table .
+834.png, Open cans on the table .
+835.png, Open cans on the table .
+836.png, Open cans on the table .
+837.png, Open cans on the table .
+838.png, Open cans on the table .
+839.png, Open cans on the table .
+840.png, Open cans on the table .
+841.png, Open cans on the table .
+842.png, Open cans on the table .
+843.png, Open cans on the table .
+844.png, Open cans on the table .
+845.png, Open cans on the table .
+846.png, Open cans on the table .
+847.png, Open cans on the table .
+848.png, Open cans on the table .
+849.png, Open cans on the table .
+850.png, Open cans on the table .
+851.png, Open cans on the table .
+852.png, Open cans on the table .
+853.png, Open cans on the table .
+854.png, Open cans on the table .
+855.png, Open cans on the table .
+856.png, Open cans on the table .
+857.png, Open cans on the table .
+858.png, Open cans on the table .
+859.png, Open cans on the table .
+860.png, Open cans on the table .
+861.png, Open cans on the table .
+862.png, Open cans on the table .
+863.png, Open cans on the table .
+864.png, Open cans on the table .
+867.png, washing hands .
+868.png, washing hands .
+877.png, washing hands .
+878.png, washing hands .
+879.png, washing hands .
+890.png, Open the drawer to take something out .
+891.png, Open the drawer to take something out .
+892.png, Open the drawer to take something out .
+893.png, Open the drawer to take something out .
+894.png, Open the drawer to take something out .
+895.png, Open the drawer to take something out .
+903.png, Take out the fresh-keeping bag .
+904.png, Put plastic bags on cans .
+905.png, Put plastic bags on cans .
+906.png, Put plastic bags on cans .
+907.png, Put plastic bags on cans .
+908.png, Put plastic bags on cans .
+909.png, Put plastic bags on cans .
+910.png, Put plastic bags on cans .
+911.png, Put plastic bags on cans .
+912.png, Put plastic bags on cans .
+913.png, Put plastic bags on cans .
+914.png, Put plastic bags on cans .
+915.png, Put plastic bags on cans .
+916.png, Put plastic bags on cans .
+917.png, Put plastic bags on cans .
+920.png, Put plastic bags on cans .
+921.png, Put plastic bags on cans .
+922.png, Put plastic bags on cans .
+923.png, Put plastic bags on cans .
+924.png, Put plastic bags on cans .
+925.png, Put plastic bags on cans .
+928.png, Open the drawer full of kitchen utensils .
+930.png, Take the food out of the can and put it in a plastic bag .
+931.png, Take the food out of the can and put it in a plastic bag .
+932.png, Take the food out of the can and put it in a plastic bag .
+933.png, Take the food out of the can and put it in a plastic bag .
+934.png, Take the food out of the can and put it in a plastic bag .
+935.png, Take the food out of the can and put it in a plastic bag .
+936.png, Take the food out of the can and put it in a plastic bag .
+937.png, Take the food out of the can and put it in a plastic bag .
+938.png, Take the food out of the can and put it in a plastic bag .
+939.png, Take the food out of the can and put it in a plastic bag .
+940.png, Take the food out of the can and put it in a plastic bag .
+941.png, Take the food out of the can and put it in a plastic bag .
+942.png, Take the food out of the can and put it in a plastic bag .
+943.png, Take the food out of the can and put it in a plastic bag .
+944.png, Take the food out of the can and put it in a plastic bag .
+945.png, Take the food out of the can and put it in a plastic bag .
+946.png, Take the food out of the can and put it in a plastic bag .
+947.png, Take the food out of the can and put it in a plastic bag .
+948.png, Take the food out of the can and put it in a plastic bag .
+949.png, Take the food out of the can and put it in a plastic bag .
+950.png, Take the food out of the can and put it in a plastic bag .
+951.png, Take the food out of the can and put it in a plastic bag .
+952.png, Take the food out of the can and put it in a plastic bag .
+953.png, Take the food out of the can and put it in a plastic bag .
+954.png, Take the food out of the can and put it in a plastic bag .
+955.png, Take the food out of the can and put it in a plastic bag .
+956.png, Take the food out of the can and put it in a plastic bag .
+957.png, Take the food out of the can and put it in a plastic bag .
+958.png, Take the food out of the can and put it in a plastic bag .
+959.png, Take the food out of the can and put it in a plastic bag .
+960.png, Take the food out of the can and put it in a plastic bag .
+961.png, Take the food out of the can and put it in a plastic bag .
+962.png, Wash empty cans with water .
+963.png, Wash empty cans with water .
+964.png, Wash empty cans with water .
+965.png, Wash empty cans with water .
+966.png, Wash empty cans with water .
+967.png, Wash empty cans with water .
+968.png, Wash empty cans with water .
+969.png, Wash empty cans with water .
+970.png, Wash empty cans with water .
+971.png, Wash empty cans with water .
+972.png, Wash empty cans with water .
+973.png, Wash empty cans with water .
+974.png, Wash empty cans with water .
+975.png, Wash empty cans with water .
+976.png, Wash empty cans with water .
+977.png, Wash empty cans with water .
+978.png, Wash empty cans with water .
+979.png, Wash empty cans with water .
+985.png, Open the drawer full of kitchen utensils .
+986.png, Open the drawer full of kitchen utensils .
+987.png, Open the drawer full of kitchen utensils .
+988.png, Open the drawer full of kitchen utensils .
+989.png, Open the drawer full of kitchen utensils .
+990.png, Pick up the seasoning .
+991.png, Pick up the seasoning .
+992.png, Pick up the seasoning .
+993.png, Pick up the seasoning .
+994.png, Pick up the seasoning .
+995.png, Pick up the seasoning .
+996.png, Pick up the seasoning .
+997.png, Pick up the seasoning .
+998.png, Pick up the seasoning .
+999.png, Pour the seasoning into a spoon .
+1000.png, Pour the seasoning into a spoon .
+1001.png, Pour the seasoning into a spoon .
+1002.png, Pour the seasoning into a spoon .
+1003.png, Pour the seasoning into a spoon .
+1004.png, Pour the seasoning into a spoon .
+1005.png, Pour the seasoning into a spoon .
+1006.png, Pour the seasoning into a spoon .
+1007.png, Pour the seasoning into a spoon .
+1008.png, Pour the seasoning into a spoon .
+1009.png, Pour the seasoning into a spoon .
+1010.png, Pour the seasoning into a spoon .
+1011.png, Pour the seasoning into a spoon .
+1012.png, Pour the seasoning into a spoon .
+1013.png, Pour the seasoning into a spoon .
+1014.png, Pour the seasoning into a spoon .
+1015.png, Pour the seasoning into a spoon .
+1016.png, Pour the seasoning into a spoon .
+1017.png, Pour the seasoning into a spoon .
+1018.png, Pour the seasoning into a spoon .
+1019.png, Pour the seasoning into a spoon .
+1020.png, Pour the seasoning into a spoon .
+1029.png,Get something from the refrigerator .
+1030.png,Get something from the refrigerator .
+1031.png,Get something from the refrigerator .
+1032.png,Get something from the refrigerator .
+1033.png,Get something from the refrigerator .
+1034.png,Get something from the refrigerator .
+1039.png,Opening food packaging with a knife .
+1040.png,Opening food packaging with a knife .
+1041.png,Opening food packaging with a knife .
+1042.png,Opening food packaging with a knife .
+1043.png,Opening food packaging with a knife .
+1044.png,Opening food packaging with a knife .
+1045.png,Opening food packaging with a knife .
+1046.png,Unpacking food .
+1047.png,Unpacking food .
+1048.png,Unpacking food .
+1049.png,Unpacking food .
+1050.png,Unpacking food .
+1051.png,Unpacking food .
+1052.png,Unpacking food .
+1053.png,Unpacking food .
+1054.png,Unpacking food .
+1055.png,Unpacking food .
+1056.png,Unpacking food .
+1057.png,Unpacking food .
+1058.png,Unpacking food .
+1059.png,Unpacking food .
+1060.png,Unpacking food .
+1061.png,Unpacking food .
+1062.png,Unpacking food .
+1063.png,Unpacking food .
+1064.png,Unpacking food .
+1065.png,Unpacking food .
+1066.png,Unpacking food .
+1067.png,Unpacking food .
+1068.png,Use paper towels .
+1069.png,Use paper towels .
+1070.png,Use paper towels .
+1071.png,Use paper towels .
+1072.png,Use paper towels .
+1079.png,Use paper towels .
+1080.png,Use paper towels .
+1081.png,Use paper towels .
+1082.png,Dry food on paper towels .
+1083.png,Dry food on paper towels .
+1084.png,Dry food on paper towels .
+1085.png,Dry food on paper towels .
+1086.png,Dry food on paper towels .
+1087.png,Dry food on paper towels .
+1088.png,Dry food on paper towels .
+1089.png,Dry food on paper towels .
+1090.png,Dry food on paper towels .
+1091.png,Dry food on paper towels .
+1092.png,Dry food on paper towels .
+1093.png,Dry food on paper towels .
+1094.png,Dry food on paper towels .
+1095.png,Dry food on paper towels .
+1096.png,Dry food on paper towels .
+1097.png,Dry food on paper towels .
+1098.png,Dry food on paper towels .
+1099.png,Dry food on paper towels .
+1100.png,Dry food on paper towels .
+1101.png,Dry food on paper towels .
+1102.png,Dry food on paper towels .
+1103.png,Dry food on paper towels .
+1104.png,Dry food on paper towels .
+1105.png,Dry food on paper towels .
+1106.png,Dry food on paper towels .
+1107.png,Dry food on paper towels .
+1108.png,Dry food on paper towels .
+1109.png,Dry food on paper towels .
+1110.png,Dry food on paper towels .
+1111.png,Dry food on paper towels .
+1112.png,Dry food on paper towels .
+1113.png,Dry food on paper towels .
+1114.png,Dry food on paper towels .
+1115.png,Dry food on paper towels .
+1116.png,Dry food on paper towels .
+1117.png,Dry food on paper towels .
+1118.png,Dry food on paper towels .
+1119.png,Dry food on paper towels .
+1120.png,Dry food on paper towels .
+1122.png,Throw things in the trash .
+1123.png,Throw things in the trash .
+1124.png,Throw things in the trash .
+1127.png,Put food in a plastic bag .
+1128.png,Put food in a plastic bag .
+1129.png,Put food in a plastic bag .
+1130.png,Put food in a plastic bag .
+1131.png,Put food in a plastic bag .
+1132.png,Put food in a plastic bag .
+1139.png,Take out the food with a spoon .
+1140.png,Take out the food with a spoon .
+1141.png,Take out the food with a spoon .
+1142.png,Take out the food with a spoon .
+1143.png,Take out the food with a spoon .
+1144.png,Take out the food with a spoon .
+1145.png,Take out the food with a spoon .
+1146.png,Take out the food with a spoon .
+1147.png,Take out the food with a spoon .
+1148.png,Take out the food with a spoon .
+1149.png,Take out the food with a spoon .
+1150.png,Take out the food with a spoon .
+1151.png,Take out the food with a spoon .
+1152.png,Take out the food with a spoon .
+1153.png,Take out the food with a spoon .
+1154.png,Take out the food with a spoon .
+1155.png,Take out the food with a spoon .
+1156.png,Take out the food with a spoon .
+1157.png,Take out the food with a spoon .
+1158.png,Take out the food with a spoon .
+1159.png,Take out the food with a spoon .
+1160.png,Take out the food with a spoon .
+1161.png,Take out the food with a spoon .
+1162.png,Take out the food with a spoon .
+1163.png,Take out the food with a spoon .
+1164.png,Take out the food with a spoon .
+1170.png,Put food in the refrigerator .
+1176.png,Knead the food in the plastic bag .
+1177.png,Knead the food in the plastic bag .
+1178.png,Knead the food in the plastic bag .
+1179.png,Knead the food in the plastic bag .
+1180.png,Knead the food in the plastic bag .
+1181.png,Knead the food in the plastic bag .
+1182.png,Knead the food in the plastic bag .
+1183.png,Knead the food in the plastic bag .
+1184.png,Knead the food in the plastic bag .
+1185.png,Knead the food in the plastic bag .
+1186.png,Knead the food in the plastic bag .
+1187.png,Knead the food in the plastic bag .
+1188.png,Knead the food in the plastic bag .
+1189.png,Knead the food in the plastic bag .
+1190.png,Knead the food in the plastic bag .
+1191.png,Knead the food in the plastic bag .
+1192.png,Knead the food in the plastic bag .
+1193.png,Knead the food in the plastic bag .
+1194.png,Knead the food in the plastic bag .
+1195.png,Knead the food in the plastic bag .
+1196.png,Knead the food in the plastic bag .
+1197.png,Knead the food in the plastic bag .
+1198.png,Knead the food in the plastic bag .
+1199.png,Knead the food in the plastic bag .
+1200.png,Knead the food in the plastic bag .
+1201.png,Knead the food in the plastic bag .
+1202.png,Knead the food in the plastic bag .
+1203.png,Knead the food in the plastic bag .
+1204.png,Knead the food in the plastic bag .
+1205.png,Knead the food in the plastic bag .
+1206.png,Knead the food in the plastic bag .
+1207.png,Knead the food in the plastic bag .
+1208.png,Knead the food in the plastic bag .
+1209.png,Knead the food in the plastic bag .
+1210.png,Knead the food in the plastic bag .
+1211.png,Knead the food in the plastic bag .
+1212.png,Knead the food in the plastic bag .
+1213.png,Knead the food in the plastic bag .
+1214.png,Knead the food in the plastic bag .
+1215.png,Knead the food in the plastic bag .
+1216.png,Knead the food in the plastic bag .
+1217.png,Knead the food in the plastic bag .
+1218.png,Knead the food in the plastic bag .
+1219.png,Knead the food in the plastic bag .
+1220.png,Knead the food in the plastic bag .
+1221.png,Knead the food in the plastic bag .
+1222.png,Knead the food in the plastic bag .
+1223.png,Knead the food in the plastic bag .
+1224.png,Knead the food in the plastic bag .
+1225.png,Knead the food in the plastic bag .
+1226.png,Knead the food in the plastic bag .
+1227.png,Knead the food in the plastic bag .
+1228.png,Knead the food in the plastic bag .
+1229.png,Knead the food in the plastic bag .
+1230.png,Knead the food in the plastic bag .
+1231.png,Knead the food in the plastic bag .
+1232.png,Knead the food in the plastic bag .
+1233.png,Knead the food in the plastic bag .
+1234.png,Knead the food in the plastic bag .
+1235.png,Knead the food in the plastic bag .
+1236.png,Knead the food in the plastic bag .
+1237.png,Knead the food in the plastic bag .
+1238.png,Knead the food in the plastic bag .
+1239.png,Knead the food in the plastic bag .
+1240.png,Knead the food in the plastic bag .
+1241.png,Knead the food in the plastic bag .
+1242.png,Knead the food in the plastic bag .
+1243.png,Knead the food in the plastic bag .
+1244.png,Knead the food in the plastic bag .
+1245.png,Knead the food in the plastic bag .
+1246.png,Knead the food in the plastic bag .
+1247.png,Knead the food in the plastic bag .
+1248.png,Knead the food in the plastic bag .
+1249.png,Knead the food in the plastic bag .
+1250.png,Knead the food in the plastic bag .
+1251.png,Knead the food in the plastic bag .
+1252.png,Knead the food in the plastic bag .
+1253.png,Knead the food in the plastic bag .
+1254.png,Knead the food in the plastic bag .
+1255.png,Knead the food in the plastic bag .
+1256.png,Knead the food in the plastic bag .
+1257.png,Knead the food in the plastic bag .
+1258.png,Knead the food in the plastic bag .
+1259.png,Knead the food in the plastic bag .
+1260.png,Knead the food in the plastic bag .
+1262.png,Take out kitchenware from the cupboard .
+1263.png,Take out kitchenware from the cupboard .
+1264.png,Take out kitchenware from the cupboard .
+1265.png,Various kitchen utensils are placed on the stove .
+1266.png,Various kitchen utensils are placed on the stove .
+1267.png,Various kitchen utensils are placed on the stove .
+1268.png,Various kitchen utensils are placed on the stove .
+1269.png,Various kitchen utensils are placed on the stove .
+1272.png,Various kitchen utensils are placed on the stove .
+1273.png,Various kitchen utensils are placed on the stove .
+1274.png,Various kitchen utensils are placed on the stove .
+1275.png,Various kitchen utensils are placed on the stove .
+1276.png,Various kitchen utensils are placed on the stove .
+1277.png,Various kitchen utensils are placed on the stove .
+1278.png,Various kitchen utensils are placed on the stove .
+1279.png,Various kitchen utensils are placed on the stove .
+1280.png,Various kitchen utensils are placed on the stove .
+1281.png,Various kitchen utensils are placed on the stove .
+1282.png,Various kitchen utensils are placed on the stove .
+1283.png,Various kitchen utensils are placed on the stove .
+1284.png,Various kitchen utensils are placed on the stove .
+1285.png,Pour oil into the pan .
+1286.png,Pour oil into the pan .
+1287.png,Various kitchen utensils are placed on the stove .
+1288.png,Pour oil into the pan .
+1289.png,Kneading the food in the fresh-keeping bag .
+1290.png,Kneading the food in the fresh-keeping bag .
+1291.png,Kneading the food in the fresh-keeping bag .
+1292.png,Kneading the food in the fresh-keeping bag .
+1293.png,Kneading the food in the fresh-keeping bag .
+1294.png,Kneading the food in the fresh-keeping bag .
+1295.png,Kneading the food in the fresh-keeping bag .
+1296.png,Kneading the food in the fresh-keeping bag .
+1297.png,Kneading the food in the fresh-keeping bag .
+1298.png,Kneading the food in the fresh-keeping bag .
+1299.png,Kneading the food in the fresh-keeping bag .
+1300.png,Kneading the food in the fresh-keeping bag .
+1301.png,Kneading the food in the fresh-keeping bag .
+1302.png,Kneading the food in the fresh-keeping bag .
+1303.png,Kneading the food in the fresh-keeping bag .
+1304.png,Kneading the food in the fresh-keeping bag .
+1305.png,Kneading the food in the fresh-keeping bag .
+1306.png,Kneading the food in the fresh-keeping bag .
+1307.png,Kneading the food in the fresh-keeping bag .
+1308.png,Kneading the food in the fresh-keeping bag .
+1309.png,Kneading the food in the fresh-keeping bag .
+1310.png,Kneading the food in the fresh-keeping bag .
+1311.png,Kneading the food in the fresh-keeping bag .
+1312.png,Kneading the food in the fresh-keeping bag .
+1313.png,Various kitchen utensils are placed on the stove .
+1314.png,Various kitchen utensils are placed on the stove .
+1315.png,Various kitchen utensils are placed on the stove .
+1316.png,Various kitchen utensils are placed on the stove .
+1317.png,Various kitchen utensils are placed on the stove .
+1319.png,Take something from the refrigerator .
+1320.png,Take something from the refrigerator .
+1321.png,Various kitchen utensils are placed on the stove .
+1322.png,Various kitchen utensils are placed on the stove .
+1323.png,Various kitchen utensils are placed on the stove .
+1324.png,Various kitchen utensils are placed on the stove .
+1325.png,Various kitchen utensils are placed on the stove .
+1326.png,Various kitchen utensils are placed on the stove .
+1327.png,Use a spoon to scoop food out of the bag .
+1328.png,Use a spoon to scoop food out of the bag .
+1329.png,Use a spoon to scoop food out of the bag .
+1330.png,Use a spoon to scoop food out of the bag .
+1331.png,Use a spoon to scoop food out of the bag .
+1332.png,Use a spoon to scoop food out of the bag .
+1333.png,Use a spoon to scoop food out of the bag .
+1334.png,Use a spoon to scoop food out of the bag .
+1335.png,Use a spoon to scoop food out of the bag .
+1336.png,Use a spoon to scoop food out of the bag .
+1337.png,Use a spoon to scoop food out of the bag .
+1338.png,Use a spoon to scoop food out of the bag .
+1339.png,Take the food to the refrigerator .
+1340.png,Take the food to the refrigerator .
+1341.png,Take the food to the refrigerator .
+1342.png,Take the food to the refrigerator .
+1343.png,Take something from the refrigerator .
+1345.png,Kneading the food in the fresh-keeping bag .
+1346.png,Kneading the food in the fresh-keeping bag .
+1347.png,Kneading the food in the fresh-keeping bag .
+1348.png,Kneading the food in the fresh-keeping bag .
+1349.png,Kneading the food in the fresh-keeping bag .
+1350.png,Kneading the food in the fresh-keeping bag .
+1351.png,Kneading the food in the fresh-keeping bag .
+1352.png,Kneading the food in the fresh-keeping bag .
+1353.png,Kneading the food in the fresh-keeping bag .
+1354.png,Kneading the food in the fresh-keeping bag .
+1355.png,Kneading the food in the fresh-keeping bag .
+1356.png,Kneading the food in the fresh-keeping bag .
+1357.png,Kneading the food in the fresh-keeping bag .
+1358.png,Kneading the food in the fresh-keeping bag .
+1359.png,Kneading the food in the fresh-keeping bag .
+1360.png,Kneading the food in the fresh-keeping bag .
+1361.png,Kneading the food in the fresh-keeping bag .
+1362.png,Kneading the food in the fresh-keeping bag .
+1363.png,Kneading the food in the fresh-keeping bag .
+1364.png,Kneading the food in the fresh-keeping bag .
+1365.png,Kneading the food in the fresh-keeping bag .
+1366.png,Kneading the food in the fresh-keeping bag .
+1367.png,Kneading the food in the fresh-keeping bag .
+1368.png,Kneading the food in the fresh-keeping bag .
+1369.png,Kneading the food in the fresh-keeping bag .
+1370.png,Kneading the food in the fresh-keeping bag .
+1371.png,Open the bag and take out the food .
+1372.png,Open the bag and take out the food .
+1373.png,Open the bag and take out the food .
+1374.png,Open the bag and take out the food .
+1375.png,Open the bag and take out the food .
+1376.png,Open the bag and take out the food .
+1377.png,Open the bag and take out the food .
+1378.png,Shape food with your hands .
+1379.png,Shape food with your hands .
+1380.png,Shape food with your hands .
+1381.png,Shape food with your hands .
+1382.png,Shape food with your hands .
+1383.png,Shape food with your hands .
+1384.png,Shape food with your hands .
+1385.png,Shape food with your hands .
+1386.png,Shape food with your hands .
+1387.png,Put food in the pot .
+1388.png,Put food in the pot .
+1389.png,Put food in the pot .
+1391.png,Walk to the pool .
+1392.png,Walk to the pool .
+1393.png,Walk to the pool .
+1394.png,Walk to the pool .
+1395.png,Walk to the pool .
+1396.png,Walk to the pool .
+1397.png,Walk to the pool .
+1398.png,Walk to the pool .
+1399.png,Walk to the pool .
+1400.png,Walk to the pool .
+1401.png,Various kitchen utensils are placed on the stove .
+1402.png,Various kitchen utensils are placed on the stove .
+1403.png,Various kitchen utensils are placed on the stove .
+1404.png,Various kitchen utensils are placed on the stove .
+1405.png,Various kitchen utensils are placed on the stove .
+1406.png,Various kitchen utensils are placed on the stove .
+1407.png,Various kitchen utensils are placed on the stove .
+1408.png,Various kitchen utensils are placed on the stove .
+1409.png,Various kitchen utensils are placed on the stove .
+1415.png,Open the cupboard and take out the kitchenware .
+1416.png,Open the cupboard and take out the kitchenware .
+1417.png,The table is filled with tableware .
+1420.png,Open the refrigerator and take something out .
+1421.png,Open the refrigerator and take something out .
+1422.png,Open the refrigerator and take something out .
+1423.png,Open the refrigerator and take something out .
+1426.png,Crack the eggs into a bowl .
+1427.png,Crack the eggs into a bowl .
+1428.png,Crack the eggs into a bowl .
+1429.png,Crack the eggs into a bowl .
+1430.png,Crack the eggs into a bowl .
+1431.png,Crack the eggs into a bowl .
+1434.png,Crack the eggs into a bowl .
+1435.png,Crack the eggs into a bowl .
+1436.png,Crack the eggs into a bowl .
+1437.png,Crack the eggs into a bowl .
+1438.png,Crack the eggs into a bowl .
+1439.png,Crack the eggs into a bowl .
+1440.png,Crack the eggs into a bowl .
+1441.png,Crack the eggs into a bowl .
+1442.png,Crack the eggs into a bowl .
+1443.png,Crack the eggs into a bowl .
+1444.png,Crack the eggs into a bowl .
+1445.png,Crack the eggs into a bowl .
+1446.png,Crack the eggs into a bowl .
+1447.png,Crack the eggs into a bowl .
+1448.png,Crack the eggs into a bowl .
+1449.png,Crack the eggs into a bowl .
+1450.png,Crack the eggs into a bowl .
+1451.png,Crack the eggs into a bowl .
+1452.png,Throw things into the trash can .
+1453.png,Throw things into the trash can .
+1454.png,Crack the eggs into a bowl .
+1455.png,Crack the eggs into a bowl .
+1456.png,Crack the eggs into a bowl .
+1457.png,Crack the eggs into a bowl .
+1458.png,Crack the eggs into a bowl .
+1459.png,Crack the eggs into a bowl .
+1460.png,Crack the eggs into a bowl .
+1461.png,Crack the eggs into a bowl .
+1462.png,Crack the eggs into a bowl .
+1463.png,Crack the eggs into a bowl .
+1464.png,Crack the eggs into a bowl .
+1465.png,Crack the eggs into a bowl .
+1466.png,Crack the eggs into a bowl .
+1467.png,Crack the eggs into a bowl .
+1468.png,Crack the eggs into a bowl .
+1469.png,Crack the eggs into a bowl .
+1470.png,Crack the eggs into a bowl .
+1471.png,Crack the eggs into a bowl .
+1472.png,Crack the eggs into a bowl .
+1473.png,Crack the eggs into a bowl .
+1474.png,Crack the eggs into a bowl .
+1475.png,Crack the eggs into a bowl .
+1476.png,Crack the eggs into a bowl .
+1477.png,Crack the eggs into a bowl .
+1478.png,Crack the eggs into a bowl .
+1479.png,Crack the eggs into a bowl .
+1480.png,Crack the eggs into a bowl .
+1481.png,Crack the eggs into a bowl .
+1482.png,Crack the eggs into a bowl .
+1483.png,Crack the eggs into a bowl .
+1484.png,Crack the eggs into a bowl .
+1485.png,Crack the eggs into a bowl .
+1486.png,Crack the eggs into a bowl .
+1487.png,Crack the eggs into a bowl .
+1488.png,Crack the eggs into a bowl .
+1489.png,Crack the eggs into a bowl .
+1490.png,Crack the eggs into a bowl .
+1491.png,Crack the eggs into a bowl .
+1492.png,Crack the eggs into a bowl .
+1493.png,Crack the eggs into a bowl .
+1494.png,Crack the eggs into a bowl .
+1495.png,Crack the eggs into a bowl .
+1496.png,Crack the eggs into a bowl .
+1497.png,Crack the eggs into a bowl .
+1498.png,Crack the eggs into a bowl .
+1499.png,Crack the eggs into a bowl .
+1500.png,Crack the eggs into a bowl .
+1501.png,Crack the eggs into a bowl .
+1502.png,Crack the eggs into a bowl .
+1503.png,Crack the eggs into a bowl .
+1504.png,Crack the eggs into a bowl .
+1505.png,Crack the eggs into a bowl .
+1506.png,Crack the eggs into a bowl .
+1507.png,Crack the eggs into a bowl .
+1508.png,Crack the eggs into a bowl .
+1509.png,Crack the eggs into a bowl .
+1510.png,Crack the eggs into a bowl .
+1511.png,Crack the eggs into a bowl .
+1512.png,Crack the eggs into a bowl .
+1513.png,Crack the eggs into a bowl .
+1514.png,Crack the eggs into a bowl .
+1515.png,Crack the eggs into a bowl .
+1516.png,Crack the eggs into a bowl .
+1517.png,Crack the eggs into a bowl .
+1518.png,Crack the eggs into a bowl .
+1520.png,Throw things into the trash can .
+1521.png,Washing hands at the sink .
+1522.png,Washing hands at the sink .
+1523.png,Washing hands at the sink .
+1524.png,Washing hands at the sink .
+1525.png,Washing hands at the sink .
+1526.png,Washing hands at the sink .
+1527.png,Washing hands at the sink .
+1528.png,Washing hands at the sink .
+1529.png,Washing hands at the sink .
+1530.png,Various kitchen utensils are placed on the stove .
+1531.png,Various kitchen utensils are placed on the stove .
+1532.png,Various kitchen utensils are placed on the stove .
+1533.png,Various kitchen utensils are placed on the stove .
+1534.png,Various kitchen utensils are placed on the stove .
+1535.png,Various kitchen utensils are placed on the stove .
+1536.png,Various kitchen utensils are placed on the stove .
+1537.png,Various kitchen utensils are placed on the stove .
+1539.png,Open the drawer full of kitchen utensils .
+1540.png,Open the drawer full of kitchen utensils .
+1541.png,Open the drawer full of kitchen utensils .
+1542.png,Open the drawer full of kitchen utensils .
+1543.png,Open the drawer full of kitchen utensils .
+1544.png,Open the drawer full of kitchen utensils .
+1547.png,Open the cupboard and take out something .
+1548.png,Open the cupboard and take out something .
+1549.png,Open the cupboard and take out something .
+1550.png,Open the cupboard and take out something .
+1551.png,Open the cupboard and take out something .
+1552.png,Open the cupboard and take out something .
+1553.png,Open the cupboard and take out something .
+1554.png,Open the cupboard and take out something .
+1555.png,Open the cupboard and take out something .
+1556.png,Open the cupboard and take out something .
+1557.png,Open the cupboard and take out something .
+1559.png,Open the plastic box of seasonings to add to the food .
+1560.png,Open the plastic box of seasonings to add to the food .
+1561.png,Open the plastic box of seasonings to add to the food .
+1562.png,Open the plastic box of seasonings to add to the food .
+1563.png,Open the plastic box of seasonings to add to the food .
+1564.png,Open the plastic box of seasonings to add to the food .
+1565.png,Open the plastic box of seasonings to add to the food .
+1566.png,Open the plastic box of seasonings to add to the food .
+1567.png,Open the plastic box of seasonings to add to the food .
+1568.png,Open the plastic box of seasonings to add to the food .
+1569.png,Open the plastic box of seasonings to add to the food .
+1570.png,Open the plastic box of seasonings to add to the food .
+1571.png,Open the plastic box of seasonings to add to the food .
+1572.png,Open the plastic box of seasonings to add to the food .
+1573.png,Open the plastic box of seasonings to add to the food .
+1574.png,Open the plastic box of seasonings to add to the food .
+1575.png,Open the plastic box of seasonings to add to the food .
+1576.png,Open the plastic box of seasonings to add to the food .
+1577.png,Open the plastic box of seasonings to add to the food .
+1578.png,Open the plastic box of seasonings to add to the food .
+1579.png,Open the plastic box of seasonings to add to the food .
+1580.png,Open the plastic box of seasonings to add to the food .
+1581.png,Open the plastic box of seasonings to add to the food .
+1582.png,Open the plastic box of seasonings to add to the food .
+1583.png,Open the plastic box of seasonings to add to the food .
+1584.png,Open the plastic box of seasonings to add to the food .
+1585.png,Open the plastic box of seasonings to add to the food .
+1586.png,Open the plastic box of seasonings to add to the food .
+1587.png,Open the plastic box of seasonings to add to the food .
+1588.png,There's a lot of kitchenware around the sink. .
+1589.png,Put something in the cupboard. .
+1590.png,Put something in the cupboard. .
+1591.png,take something out of the cupboard .
+1592.png,take something out of the cupboard .
+1593.png,take something out of the cupboard .
+1595.png,There's a lot of kitchenware around the sink. .
+1596.png,There's a lot of kitchenware around the sink. .
+1597.png,Pour the seasoning into the food .
+1598.png,Pour the seasoning into the food .
+1599.png,Pour the seasoning into the food .
+1600.png,Pour the seasoning into the food .
+1601.png,Pour the seasoning into the food .
+1602.png,Pour the seasoning into the food .
+1603.png,Pour the seasoning into the food .
+1604.png,There's a lot of kitchenware around the sink. .
+1605.png,There's a lot of kitchenware around the sink. .
+1606.png,Open the cupboards and put things in. .
+1607.png,Open the cupboards and put things in. .
+1608.png,Open the cupboards and put things in. .
+1609.png,Open the cupboards and put things in. .
+1610.png,Open the cupboards and put things in. .
+1611.png,Open the cupboards and put things in. .
+1612.png,Open the cupboards and put things in. .
+1613.png,There's a lot of kitchenware around the sink. .
+1614.png,There's a lot of kitchenware around the sink. .
+1615.png,There's a lot of kitchenware around the sink. .
+1616.png,Pour the seasoning into the food .
+1617.png,Pour the seasoning into the food .
+1618.png,Pour the seasoning into the food .
+1619.png,Pour the seasoning into the food .
+1620.png,Pour the seasoning into the food .
+1621.png,Pour the seasoning into the food .
+1623.png,Open the cupboard and take out something .
+1624.png,Open the cupboard and take out something .
+1625.png,Open the cupboard and take out something .
+1626.png,Open the cupboard and take out something .
+1627.png,Open the cupboard and take out something .
+1628.png,Open the cupboard and take out something .
+1632.png,Pour the seasoning into the food .
+1633.png,Pour the seasoning into the food .
+1634.png,Pour the seasoning into the food .
+1635.png,Pour the seasoning into the food .
+1636.png,Pour the seasoning into the food .
+1637.png,Pour the seasoning into the food .
+1638.png,Pour the seasoning into the food .
+1639.png,Pour the seasoning into the food .
+1640.png,Pour the seasoning into the food .
+1641.png,Pour the seasoning into the food .
+1642.png,There's a lot of kitchenware around the sink. .
+1643.png,Cooking food in a pan .
+1644.png,Cooking food in a pan .
+1645.png,Cooking food in a pan .
+1646.png,Cooking food in a pan .
+1647.png,Cooking food in a pan .
+1648.png,Cooking food in a pan .
+1649.png,Cooking food in a pan .
+1650.png,Cooking food in a pan .
+1651.png,Cooking food in a pan .
+1653.png,Open the fridge and get something. .
+1654.png,Open the fridge and get something. .
+1655.png,Open the fridge and get something. .
+1656.png,Cooking food in a pan .
+1657.png,Cooking food in a pan .
+1658.png,Cooking food in a pan .
+1659.png,Cooking food in a pan .
+1660.png,Cooking food in a pan .
+1662.png,Handling ingredients .
+1663.png,Handling ingredients .
+1664.png,Handling ingredients .
+1665.png,Handling ingredients .
+1666.png,Handling ingredients .
+1667.png,Handling ingredients .
+1668.png,Handling ingredients .
+1669.png,Handling ingredients .
+1670.png,Handling ingredients .
+1671.png,Handling ingredients .
+1672.png,Handling ingredients .
+1673.png,Handling ingredients .
+1674.png,Handling ingredients .
+1675.png,Handling ingredients .
+1676.png,Handling ingredients .
+1677.png,Handling ingredients .
+1678.png,Handling ingredients .
+1679.png,Handling ingredients .
+1680.png,Handling ingredients .
+1681.png,Handling ingredients .
+1682.png,Handling ingredients .
+1683.png,Handling ingredients .
+1684.png,Handling ingredients .
+1685.png,Handling ingredients .
+1686.png,Handling ingredients .
+1687.png,Handling ingredients .
+1688.png,Handling ingredients .
+1689.png,Pour oil into the pan. .
+1690.png,Pour oil into the pan. .
+1691.png,Pour oil into the pan. .
+1692.png,Pour oil into the pan. .
+1693.png,Pour oil into the pan. .
+1694.png,Pour oil into the pan. .
+1695.png,Pour oil into the pan. .
+1696.png,Pour oil into the pan. .
+1697.png,Pour oil into the pan. .
+1698.png,Pour oil into the pan. .
+1699.png,Wipe your hands clean with paper. .
+1700.png,Wipe your hands clean with paper. .
+1701.png,Wipe your hands clean with paper. .
+1702.png,Wipe your hands clean with paper. .
+1703.png,Wipe your hands clean with paper. .
+1704.png,Wipe your hands clean with paper. .
+1705.png,Wipe your hands clean with paper. .
+1706.png,Wipe your hands clean with paper. .
+1707.png,Wipe your hands clean with paper. .
+1708.png,Wipe your hands clean with paper. .
+1709.png,Wipe your hands clean with paper. .
+1710.png,Taking food out of the bag and shaping it .
+1711.png,Taking food out of the bag and shaping it .
+1712.png,Taking food out of the bag and shaping it .
+1713.png,Taking food out of the bag and shaping it .
+1714.png,Taking food out of the bag and shaping it .
+1715.png,Taking food out of the bag and shaping it .
+1716.png,Taking food out of the bag and shaping it .
+1717.png,Taking food out of the bag and shaping it .
+1718.png,Taking food out of the bag and shaping it .
+1719.png,Taking food out of the bag and shaping it .
+1720.png,Taking food out of the bag and shaping it .
+1721.png,Taking food out of the bag and shaping it .
+1722.png,Taking food out of the bag and shaping it .
+1723.png,Taking food out of the bag and shaping it .
+1724.png,Put the food in the pot. .
+1725.png,Put the food in the pot. .
+1726.png,Taking food out of the bag and shaping it .
+1727.png,Taking food out of the bag and shaping it .
+1728.png,Taking food out of the bag and shaping it .
+1729.png,Taking food out of the bag and shaping it .
+1730.png,Taking food out of the bag and shaping it .
+1731.png,Taking food out of the bag and shaping it .
+1732.png,Taking food out of the bag and shaping it .
+1733.png,Taking food out of the bag and shaping it .
+1734.png,Taking food out of the bag and shaping it .
+1735.png,Taking food out of the bag and shaping it .
+1736.png,Taking food out of the bag and shaping it .
+1737.png,Taking food out of the bag and shaping it .
+1738.png,Taking food out of the bag and shaping it .
+1739.png,Taking food out of the bag and shaping it .
+1740.png,Put the food in the pot. .
+1741.png,Put the food in the pot. .
+1742.png,Taking food out of the bag and shaping it .
+1743.png,Taking food out of the bag and shaping it .
+1744.png,Taking food out of the bag and shaping it .
+1745.png,Taking food out of the bag and shaping it .
+1746.png,Taking food out of the bag and shaping it .
+1747.png,Taking food out of the bag and shaping it .
+1748.png,Taking food out of the bag and shaping it .
+1749.png,Taking food out of the bag and shaping it .
+1750.png,Taking food out of the bag and shaping it .
+1751.png,Taking food out of the bag and shaping it .
+1752.png,Taking food out of the bag and shaping it .
+1753.png,Taking food out of the bag and shaping it .
+1754.png,Taking food out of the bag and shaping it .
+1755.png,Taking food out of the bag and shaping it .
+1756.png,Taking food out of the bag and shaping it .
+1757.png,Taking food out of the bag and shaping it .
+1758.png,Taking food out of the bag and shaping it .
+1759.png,Taking food out of the bag and shaping it .
+1760.png,Taking food out of the bag and shaping it .
+1761.png,Taking food out of the bag and shaping it .
+1762.png,Taking food out of the bag and shaping it .
+1763.png,Taking food out of the bag and shaping it .
+1764.png,Taking food out of the bag and shaping it .
+1765.png,Taking food out of the bag and shaping it .
+1766.png,Taking food out of the bag and shaping it .
+1767.png,Put the food in the pot. .
+1768.png,Put the food in the pot. .
+1769.png,Put the food in the pot. .
+1770.png,Taking food out of the bag and shaping it .
+1771.png,Taking food out of the bag and shaping it .
+1772.png,Taking food out of the bag and shaping it .
+1773.png,Taking food out of the bag and shaping it .
+1774.png,Taking food out of the bag and shaping it .
+1775.png,Taking food out of the bag and shaping it .
+1776.png,Taking food out of the bag and shaping it .
+1777.png,Taking food out of the bag and shaping it .
+1778.png,Taking food out of the bag and shaping it .
+1779.png,Taking food out of the bag and shaping it .
+1780.png,Taking food out of the bag and shaping it .
+1781.png,Taking food out of the bag and shaping it .
+1782.png,Taking food out of the bag and shaping it .
+1783.png,Taking food out of the bag and shaping it .
+1784.png,Taking food out of the bag and shaping it .
+1785.png,Put food in the pot. .
+1786.png,Put food in the pot. .
+1787.png,Put food in the pot. .
+1788.png,Taking food out of the bag and shaping it .
+1789.png,Taking food out of the bag and shaping it .
+1790.png,Taking food out of the bag and shaping it .
+1791.png,Taking food out of the bag and shaping it .
+1792.png,Taking food out of the bag and shaping it .
+1793.png,Taking food out of the bag and shaping it .
+1794.png,Taking food out of the bag and shaping it .
+1795.png,Taking food out of the bag and shaping it .
+1796.png,Taking food out of the bag and shaping it .
+1797.png,Taking food out of the bag and shaping it .
+1798.png,Taking food out of the bag and shaping it .
+1799.png,Taking food out of the bag and shaping it .
+1800.png,Put food in the pot. .
+1801.png,Put food in the pot. .
+1802.png,Taking food out of the bag and shaping it .
+1803.png,Taking food out of the bag and shaping it .
+1804.png,Taking food out of the bag and shaping it .
+1805.png,Taking food out of the bag and shaping it .
+1806.png,Taking food out of the bag and shaping it .
+1807.png,Taking food out of the bag and shaping it .
+1808.png,Taking food out of the bag and shaping it .
+1809.png,Taking food out of the bag and shaping it .
+1810.png,Taking food out of the bag and shaping it .
+1811.png,Taking food out of the bag and shaping it .
+1812.png,Taking food out of the bag and shaping it .
+1813.png,Taking food out of the bag and shaping it .
+1814.png,Taking food out of the bag and shaping it .
+1815.png,Taking food out of the bag and shaping it .
+1816.png,Taking food out of the bag and shaping it .
+1817.png,Taking food out of the bag and shaping it .
+1818.png,Put food in the pot. .
+1819.png,Put food in the pot. .
+1820.png,Put food in the pot. .
+1821.png,Put food in the pot. .
+1823.png,Turn on the tap and wash your hands .
+1824.png,Turn on the tap and wash your hands .
+1825.png,Turn on the tap and wash your hands .
+1826.png,Turn on the tap and wash your hands .
+1828.png,food cooked on the stovetop .
+1829.png,food cooked on the stovetop .
+1830.png,food cooked on the stovetop .
+1831.png,food cooked on the stovetop .
+1832.png,food cooked on the stovetop .
+1835.png,Turn on the tap to wash the kitchenware .
+1836.png,Turn on the tap to wash the kitchenware .
+1837.png,food cooked on the stovetop .
+1838.png,food cooked on the stovetop .
+1839.png,food cooked on the stovetop .
+1840.png,food cooked on the stovetop .
+1841.png,food cooked on the stovetop .
+1842.png,food cooked on the stovetop .
+1843.png,food cooked on the stovetop .
+1844.png,food cooked on the stovetop .
+1845.png,food cooked on the stovetop .
+1846.png,food cooked on the stovetop .
+1849.png,Wipe the pan clean with paper .
+1850.png,Wipe the pan clean with paper .
+1851.png,Wipe the pan clean with paper .
+1852.png,Wipe the pan clean with paper .
+1853.png,Wipe the pan clean with paper .
+1854.png,Wipe the pan clean with paper .
+1855.png,Wipe the pan clean with paper .
+1856.png,food cooked on the stovetop .
+1857.png,food cooked on the stovetop .
+1858.png,food cooked on the stovetop .
+1859.png,food cooked on the stovetop .
+1860.png,food cooked on the stovetop .
+1861.png,food cooked on the stovetop .
+1862.png,food cooked on the stovetop .
+1863.png,food cooked on the stovetop .
+1864.png,food cooked on the stovetop .
+1865.png,food cooked on the stovetop .
+1866.png,food cooked on the stovetop .
+1867.png,food cooked on the stovetop .
+1868.png,food cooked on the stovetop .
+1869.png,food cooked on the stovetop .
+1870.png,food cooked on the stovetop .
+1871.png,There's a lot of kitchenware on the table. .
+1872.png,There's a lot of kitchenware on the table. .
+1873.png,Grab the kettle on the table and pour the water .
+1874.png,Grab the kettle on the table and pour the water .
+1875.png,Grab the kettle on the table and pour the water .
+1876.png,Grab the kettle on the table and pour the water .
+1877.png,Grab the kettle on the table and pour the water .
+1878.png,Grab the kettle on the table and pour the water .
+1879.png,Grab the kettle on the table and pour the water .
+1880.png,Filling the kettle with water from the tap .
+1881.png,Filling the kettle with water from the tap .
+1882.png,Filling the kettle with water from the tap .
+1883.png,Filling the kettle with water from the tap .
+1884.png,Filling the kettle with water from the tap .
+1885.png,Filling the kettle with water from the tap .
+1886.png,Filling the kettle with water from the tap .
+1887.png,Filling the kettle with water from the tap .
+1888.png,Filling the kettle with water from the tap .
+1889.png,Filling the kettle with water from the tap .
+1890.png,Filling the kettle with water from the tap .
+1891.png,Boil water in a kettle .
+1892.png,Boil water in a kettle .
+1893.png,Boil water in a kettle .
+1894.png,Boil water in a kettle .
+1895.png,Boil water in a kettle .
+1896.png,Boil water in a kettle .
+1897.png,There's a lot of kitchenware on the table .
+1898.png,Open the cupboards and take out the cooker. .
+1899.png,Open the cupboards and take out the cooker. .
+1900.png,Open the cupboards and take out the cooker. .
+1901.png,Open the cupboards and take out the cooker. .
+1902.png,Open the cupboards and take out the cooker. .
+1903.png,There's a lot of kitchenware on the table .
+1904.png,There's a lot of kitchenware on the table .
+1905.png,There's a lot of kitchenware on the table .
+1906.png,Put the pot on the stove. .
+1909.png,Open the hood. .
+1910.png,Switch on the power. .
+1911.png,Switch on the power. .
+1912.png,There's a lot of kitchenware on the table. .
+1913.png,There's a lot of kitchenware on the table. .
+1914.png,There's a lot of kitchenware on the table. .
+1915.png,There's a lot of kitchenware on the table. .
+1916.png,There's a lot of kitchenware on the table. .
+1917.png,turn on the heat .
+1918.png,turn on the heat .
+1919.png,There's a lot of kitchenware on the table. .
+1920.png,There's a lot of kitchenware on the table. .
+1921.png,There's a lot of kitchenware on the table. .
+1922.png,There's a lot of kitchenware on the table. .
+1923.png,There's a lot of kitchenware on the table. .
+1924.png,Open the cupboards and take something out. .
+1925.png,Open the cupboards and take something out. .
+1926.png,Open the cupboards and take something out. .
+1927.png,Open the cupboards and take something out. .
+1928.png,Open the cupboards and take something out. .
+1929.png,There's a lot of kitchenware on the table. .
+1930.png,There's a lot of kitchenware on the table. .
+1931.png,There's a lot of kitchenware on the table. .
+1932.png,There's a lot of kitchenware on the table. .
+1933.png,There's a lot of kitchenware on the table. .
+1934.png,There's a lot of kitchenware on the table. .
+1935.png,Open the fridge and take something out. .
+1936.png,Open the fridge and take something out. .
+1937.png,Open the fridge and take something out. .
+1938.png,Open the fridge and take something out. .
+1939.png,Open the fridge and take something out. .
+1940.png,Open the fridge and take something out. .
+1941.png,Open the fridge and take something out. .
+1942.png,Open the fridge and take something out. .
+1943.png,Open the fridge and take something out. .
+1944.png,Open the fridge and take something out. .
+1945.png,Open the fridge and take something out. .
+1947.png,There's a lot of kitchenware on the table. .
+1948.png,There's a lot of kitchenware on the table. .
+1949.png,Fill the glass with drinks. .
+1950.png,Fill the glass with drinks. .
+1951.png,Fill the glass with drinks. .
+1952.png,Fill the glass with drinks. .
+1953.png,Fill the glass with drinks. .
+1954.png,Fill the glass with drinks. .
+1955.png,Fill the glass with drinks. .
+1956.png,Fill the glass with drinks. .
+1957.png,There's a lot of kitchenware on the table. .
+1958.png,Washing drink bottles at the sink .
+1959.png,Washing beverage bottles at the sink .
+1960.png,Cleaning drink bottles at the sink .
+1961.png,Washing drink bottles by the sink .
+1962.png,Washing drink bottles at the sink .
+1963.png,Washing beverage bottles at the sink .
+1964.png,Cleaning drink bottles at the sink .
+1965.png,Washing drink bottles by the sink .
+1966.png,Washing drink bottles at the sink .
+1967.png,Washing beverage bottles at the sink .
+1968.png,Cleaning drink bottles at the sink .
+1969.png,Washing drink bottles by the sink .
+1970.png,Washing drink bottles at the sink .
+1971.png,Washing beverage bottles at the sink .
+1972.png,Cleaning drink bottles at the sink .
+1973.png,Washing drink bottles by the sink .
+1974.png,Washing drink bottles at the sink .
+1975.png,Washing beverage bottles at the sink .
+1976.png,There's a lot of kitchenware on the table. .
+1977.png,There's a lot of kitchenware on the table. .
+1978.png,There's a lot of kitchenware on the table. .
+1979.png,There's a lot of kitchenware on the table. .
+1980.png,There's a lot of kitchenware on the table. .
+1981.png,There's a lot of kitchenware on the table. .
+1982.png,There's a lot of kitchenware on the table. .
+1983.png,Take something out of the fridge. .
+1984.png,Take something out of the fridge. .
+1985.png,Take something out of the fridge. .
+1987.png,Pour a drink into the glass. .
+1988.png,Pour a drink into a glass. .
+1989.png,Pour a drink into the cup. .
+1990.png,Pour a drink into the glass. .
+1991.png,Pour a drink into a glass. .
+1992.png,Pour a drink into the cup. .
+1993.png,Pour a drink into the glass. .
+1994.png,Pour a drink into a glass. .
+1995.png,Pour a drink into the cup. .
+1996.png,Pour a drink into the glass. .
+1997.png,Pour a drink into a glass. .
+1998.png,Pour a drink into the cup. .
+1999.png,Pour a drink into the glass. .
+2000.png,Pour a drink into a glass. .
+2001.png,Open the fridge and put something back. .
+2002.png,Open the fridge and put something back. .
+2003.png,Open the fridge and put something back. .
+2004.png,Open the fridge and put something back. .
+2005.png,Open the fridge and put something back. .
+2006.png,Open the fridge and put something back. .
+2007.png,Turn on the microwave. .
+2008.png,Open the microwave. .
+2009.png,Turn on the microwave. .
+2010.png,Open the microwave. .
+2011.png,Turn on the microwave. .
+2012.png,Open the microwave. .
+2013.png,Turn on the microwave. .
+2014.png,Open the microwave. .
+2015.png,Turn on the microwave. .
+2016.png,Open the microwave. .
+2017.png,Turn on the microwave. .
+2018.png,Open the microwave. .
+2019.png,There's a lot of kitchenware on the table. .
+2020.png,There's a lot of kitchenware on the table. .
+2024.png,There's a lot of kitchenware on the table. .
+2025.png,There's a lot of kitchenware on the table. .
+2026.png,There's a lot of kitchenware on the table. .
+2027.png,There's a lot of kitchenware on the table. .
+2028.png,There's a lot of kitchenware on the table. .
+2030.png,You're holding unwrapped food. .
+2031.png,You're holding unpackaged food. .
+2032.png,You're holding unpackaged food in your hand. .
+2033.png,You're holding unwrapped food. .
+2034.png,You're holding unpackaged food. .
+2035.png,You're holding unpackaged food in your hand. .
+2036.png,You're holding unwrapped food. .
+2037.png,You're holding unpackaged food. .
+2038.png,You're holding unpackaged food in your hand. .
+2039.png,You're holding unwrapped food. .
+2040.png,You're holding unpackaged food. .
+2041.png,You're holding unpackaged food in your hand. .
+2042.png,You're holding unwrapped food. .
+2043.png,You're holding unpackaged food. .
+2044.png,You're holding unpackaged food in your hand. .
+2045.png,You're holding unwrapped food. .
+2046.png,There's a lot of kitchenware on the table. .
+2047.png,There's a lot of kitchenware on the table. .
+2048.png,Waiting for the water to boil, to use .
+2049.png,Wait for the water to boil and then use .
+2050.png,Wait for the water to boil and use .
+2051.png,Wait for the water to boil and use it .
+2052.png,Waiting for the water to boil, to use .
+2053.png,Wait for the water to boil and then use .
+2054.png,Wait for the water to boil and use .
+2055.png,Wait for the water to boil and use it .
+2056.png,Waiting for the water to boil, to use .
+2057.png,Wait for the water to boil and then use .
+2058.png,Wait for the water to boil and use .
+2059.png,Wait for the water to boil and use it .
+2060.png,Waiting for the water to boil, to use .
+2061.png,Wait for the water to boil and then use .
+2062.png,Wait for the water to boil and use .
+2063.png,Wait for the water to boil and use it .
+2064.png,Waiting for the water to boil, to use .
+2065.png,Wait for the water to boil and then use .
+2066.png,Wait for the water to boil and use .
+2067.png,Wait for the water to boil and use it .
+2068.png,Waiting for the water to boil, to use .
+2069.png,Wait for the water to boil and then use .
+2070.png,Wait for the water to boil and use .
+2071.png,Wait for the water to boil and use it .
+2072.png,Waiting for the water to boil, to use .
+2073.png,Wait for the water to boil and then use .
+2074.png,Wait for the water to boil and use .
+2075.png,Wait for the water to boil and use it .
+2076.png,Waiting for the water to boil, to use .
+2077.png,Wait for the water to boil and then use .
+2078.png,Wait for the water to boil and use .
+2079.png,Wait for the water to boil and use it .
+2080.png,Waiting for the water to boil, to use .
+2081.png,Wait for the water to boil and then use .
+2082.png,Wait for the water to boil and use .
+2083.png,Wait for the water to boil and use it .
+2084.png,Waiting for the water to boil, to use .
+2085.png,Wait for the water to boil and then use .
+2086.png,Wait for the water to boil and use .
+2087.png,Wait for the water to boil and use it .
+2088.png,Waiting for the water to boil, to use .
+2089.png,Wait for the water to boil and then use .
+2090.png,Wait for the water to boil and use .
+2091.png,Wait for the water to boil and use it .
+2092.png,Waiting for the water to boil, to use .
+2093.png,Wait for the water to boil and then use .
+2094.png,Wait for the water to boil and use .
+2095.png,Wait for the water to boil and use it .
+2096.png,Waiting for the water to boil, to use .
+2097.png,Wait for the water to boil and then use .
+2098.png,Wait for the water to boil and use .
+2099.png,Wait for the water to boil and use it .
+2100.png,Waiting for the water to boil, to use .
+2101.png,Wait for the water to boil and then use .
+2102.png,Wait for the water to boil and use .
+2103.png,Wait for the water to boil and use it .
+2104.png,Waiting for the water to boil, to use .
+2105.png,Wait for the water to boil and then use .
+2106.png,Wait for the water to boil and use .
+2107.png,Wait for the water to boil and use it .
+2108.png,Waiting for the water to boil, to use .
+2109.png,Wait for the water to boil and then use .
+2110.png,Wait for the water to boil and use .
+2111.png,Wait for the water to boil and use it .
+2112.png,Waiting for the water to boil, to use .
+2113.png,Wait for the water to boil and then use .
+2114.png,Wait for the water to boil and use .
+2115.png,Wait for the water to boil and use it .
+2116.png,Waiting for the water to boil, to use .
+2117.png,Wait for the water to boil and then use .
+2118.png,Wait for the water to boil and use .
+2119.png,Wait for the water to boil and use it .
+2120.png,Waiting for the water to boil, to use .
+2121.png,Wait for the water to boil and then use .
+2122.png,Wait for the water to boil and use .
+2123.png,Wait for the water to boil and use it .
+2124.png,Waiting for the water to boil, to use .
+2125.png,Wait for the water to boil and then use .
+2126.png,Wait for the water to boil and use .
+2127.png,Wait for the water to boil and use it .
+2128.png,Waiting for the water to boil, to use .
+2129.png,Wait for the water to boil and then use .
+2130.png,Wait for the water to boil and use .
+2131.png,Wait for the water to boil and use it .
+2132.png,Waiting for the water to boil, to use .
+2133.png,Wait for the water to boil and then use .
+2134.png,Wait for the water to boil and use .
+2135.png,Wait for the water to boil and use it .
+2136.png,Waiting for the water to boil, to use .
+2137.png,Wait for the water to boil and then use .
+2138.png,Wait for the water to boil and use .
+2139.png,Wait for the water to boil and use it .
+2140.png,Waiting for the water to boil, to use .
+2141.png,Wait for the water to boil and then use .
+2142.png,Wait for the water to boil and use .
+2143.png,Wait for the water to boil and use it .
+2144.png,Waiting for the water to boil, to use .
+2145.png,Wait for the water to boil and then use .
+2146.png,Wait for the water to boil and use .
+2147.png,Wait for the water to boil and use it .
+2148.png,Waiting for the water to boil, to use .
+2149.png,Wait for the water to boil and then use .
+2150.png,Wait for the water to boil and use .
+2151.png,Wait for the water to boil and use it .
+2152.png,Put the pot on the hob. .
+2153.png,Pour the water into the pot. .
+2154.png,Pour the water into the pot. .
+2155.png,Pour the water into the pot. .
+2156.png,Pour the water into the pot. .
+2157.png,Pour the water into the pot. .
+2158.png,Pour the water into the pot. .
+2159.png,Pour the water into the pot. .
+2160.png,Pour the water into the pot. .
+2161.png,Pour the water into the pot. .
+2162.png,Pour the water into the pot. .
+2163.png,Pour the water into the pot. .
+2165.png,Put the kettle on the table. .
+2166.png,Put the kettle on the table. .
+2168.png,Pour the food into the pan with the water. .
+2169.png,Pour the food into the pan with the water. .
+2170.png,Pour the food into the pan with the water. .
+2171.png,Pour the food into the pan with the water. .
+2172.png,Pour the food into the pan with the water. .
+2173.png,Pour the food into the pan with the water. .
+2178.png,Pour the seasoning into the pan .
+2179.png,Pour the seasoning into the pan .
+2180.png,Pour the seasoning into the pan .
+2181.png,Pour the seasoning into the pan .
+2208.png,Use a spoon to stir the food in the pan .
+2209.png,Use a spoon to stir the food in the pan .
+2210.png,Use a spoon to stir the food in the pan .
+2211.png,Use a spoon to stir the food in the pan .
+2212.png,Use a spoon to stir the food in the pan .
+2213.png,Use a spoon to stir the food in the pan .
+2214.png,Put a lid on the pot. .
+2215.png,Put a lid on the pot. .
+2217.png,Turn on the microwave and take out a drink .
+2218.png,Turn on the microwave and pull out a drink .
+2219.png,Turn on the microwave and get out a drink .
+2220.png,Turn on the microwave and take out a drink .
+2221.png,Turn on the microwave and pull out a drink .
+2222.png,Turn on the microwave and get out a drink .
+2223.png,Turn on the microwave and take out a drink .
+2224.png,Turn on the microwave and pull out a drink .
+2225.png,Turn on the microwave and get out a drink .
+2226.png,Turn on the microwave and take out a drink .
+2227.png,Turn on the microwave and pull out a drink .
+2228.png,Turn on the microwave and get out a drink .
+2229.png,Turn on the microwave and take out a drink .
+2230.png,Turn on the microwave and pull out a drink .
+2231.png,Turn on the microwave and get out a drink .
+2232.png,Turn on the microwave and take out a drink .
+2233.png,Turn on the microwave and pull out a drink .
+2237.png,Put the food on the plate. .
+2238.png,put the food on a plate .
+2239.png,Put the food on the plate. .
+2240.png,put the food on a plate .
+2241.png,Put the food on the plate. .
+2242.png,put the food on a plate .
+2243.png,Put the food on the plate. .
+2244.png,put the food on a plate .
+2245.png,Put the food on the plate. .
+2246.png,put the food on a plate .
+2247.png,Put the food on the plate. .
+2248.png,put the food on a plate .
+2249.png,Put the food on the plate. .
+2250.png,put the food on a plate .
+2251.png,Put the food on the plate. .
+2252.png,put the food on a plate .
+2253.png,Put the food on the plate. .
+2254.png,put the food on a plate .
+2255.png,Put the food on the plate. .
+2256.png,put the food on a plate .
+2257.png,Put the food on the plate. .
+2258.png,put the food on a plate .
+2259.png,Put the food on the plate. .
+2260.png,put the food on a plate .
+2261.png,Put the food on the plate. .
+2262.png,put the food on a plate .
+2263.png,Put the food on the plate. .
+2264.png,put the food on a plate .
+2265.png,Put the food on the plate. .
+2266.png,put the food on a plate .
+2267.png,Put the food on the plate. .
+2268.png,put the food on a plate .
+2269.png,Put the food on the plate. .
+2270.png,put the food on a plate .
+2271.png,Put the food on the plate. .
+2272.png,put the food on a plate .
+2280.png,Get something from the fridge. .
+2281.png,Get something out of the fridge. .
+2282.png,Get something from the fridge. .
+2283.png,Get something out of the fridge. .
+2284.png,Get something from the fridge. .
+2285.png,Stir the food in the pan with a spoon .
+2286.png,Stir the pan with a spoon .
+2287.png,Stir the pot with a spoon .
+2288.png,Stir the food in the pan with a spoon .
+2289.png,Stir the pan with a spoon .
+2290.png,Stir the pot with a spoon .
+2291.png,Stir the food in the pan with a spoon .
+2294.png,Take the lid to the sink and clean it. .
+2295.png,Take the lid to the sink and clean it. .
+2296.png,Take the lid to the sink and clean it. .
+2297.png,Take the lid to the sink and clean it. .
+2298.png,Take the lid to the sink and clean it. .
+2324.png,Tear open the bag of food .
+2325.png,Rip open the bag of food .
+2326.png,Tear open the bag of food .
+2327.png,Rip open the bag of food .
+2328.png,Tear open the bag of food .
+2329.png,Rip open the bag of food .
+2330.png,Tear open the bag of food .
+2331.png,Rip open the bag of food .
+2334.png,Get something from the fridge. .
+2335.png,Get something from the fridge. .
+2339.png,Use a spoon to stir the food in the pan .
+2340.png,Use a spoon to stir the food in the pan .
+2341.png,Use a spoon to stir the food in the pan .
+2342.png,Use a spoon to stir the food in the pan .
+2343.png,Use a spoon to stir the food in the pan .
+2344.png,Use a spoon to stir the food in the pan .
+2345.png,Use a spoon to stir the food in the pan .
+2346.png,Use a spoon to stir the food in the pan .
+2347.png,Use a spoon to stir the food in the pan .
+2348.png,Use a spoon to stir the food in the pan .
+2349.png,Use a spoon to stir the food in the pan .
+2350.png,Use a spoon to stir the food in the pan .
+2351.png,Use a spoon to stir the food in the pan .
+2352.png,Use a spoon to stir the food in the pan .
+2353.png,Use a spoon to stir the food in the pan .
+2354.png,Use a spoon to stir the food in the pan .
+2355.png,Use a spoon to stir the food in the pan .
+2356.png,Take the kitchenware out of the cupboard. .
+2357.png,Take the kitchenware out of the cupboard. .
+2358.png,Take the kitchenware out of the cupboard. .
+2359.png,Take the kitchenware out of the cupboard. .
+2360.png,Take the kitchenware out of the cupboard. .
+2361.png,Take the kitchenware out of the cupboard. .
+2362.png,Take the kitchenware out of the cupboard. .
+2527.png,Clean the cooker with a rag .
+2528.png,Clean the hob with a rag .
+2529.png,Cleaning the cooker with a rag .
+2530.png,Clean the cooker with a rag .
+2531.png,Clean the hob with a rag .
+2532.png,Cleaning the cooker with a rag .
+2533.png,Clean the cooker with a rag .
+2534.png,Clean the hob with a rag .
+2535.png,Cleaning the cooker with a rag .
+2536.png,Clean the cooker with a rag .
+2537.png,Clean the hob with a rag .
+2538.png,Cleaning the cooker with a rag .
+2539.png,Clean the cooker with a rag .
+2540.png,Clean the hob with a rag .
+2541.png,Cleaning the cooker with a rag .
+2542.png,Clean the cooker with a rag .
+2543.png,Clean the hob with a rag .
+2544.png,Cleaning the cooker with a rag .
+2545.png,Clean the cooker with a rag .
+2546.png,Clean the hob with a rag .
+2547.png,Cleaning the cooker with a rag .
+2590.png,Strain your food through a colander. .
+2591.png,Strain the food through a colander. .
+2592.png,Strain food through a colander. .
+2593.png,Strain your food through a colander. .
+2594.png,Strain the food through a colander. .
+2595.png,Strain food through a colander. .
+2596.png,Strain your food through a colander. .
+2597.png,Strain the food through a colander. .
+2598.png,Strain food through a colander. .
+2599.png,Strain your food through a colander. .
+2600.png,Strain the food through a colander. .
+2601.png,Strain food through a colander. .
+2602.png,Strain your food through a colander. .
+2603.png,Strain the food through a colander. .
+2604.png,Strain food through a colander. .
+2605.png,Strain your food through a colander. .
+2606.png,Strain the food through a colander. .
+2609.png,Pour the food into the box. .
+2610.png,Pour the food into the box. .
+2611.png,Pour the food into the box. .
+2612.png,Pour the food into the box. .
+2613.png,Pour the food into the box. .
+2614.png,Pour the food into the box. .
+2615.png,Pour the food into the box. .
+2616.png,Pour the food into the box. .
+2620.png,Pouring food into plastic crisper containers .
+2621.png,Pour the food into a plastic crisper. .
+2622.png,Pouring food into plastic crisper boxes .
+2623.png,Pouring food into a plastic crisper box .
+2624.png,Pouring food into plastic crisper containers .
+2625.png,Pour the food into a plastic crisper. .
+2626.png,Pouring food into plastic crisper boxes .
+2627.png,Pouring food into a plastic crisper box .
+2628.png,Pouring food into plastic crisper containers .
+2629.png,Pour the food into a plastic crisper. .
+2630.png,Pouring food into plastic crisper boxes .
+2631.png,Pouring food into a plastic crisper box .
+2632.png,Pouring food into plastic crisper containers .
+2633.png,Pour the food into a plastic crisper. .
+2634.png,Pouring food into plastic crisper boxes .
+2635.png,Pouring food into a plastic crisper box .
+2636.png,Pouring food into plastic crisper containers .
+2637.png,Pour the food into a plastic crisper. .
+2638.png,Pouring food into plastic crisper boxes .
+2639.png,Pouring food into a plastic crisper box .
+2640.png,Pouring food into plastic crisper containers .
+2641.png,Pour the food into a plastic crisper. .
+2642.png,Pouring food into plastic crisper boxes .
+2643.png,Pouring food into a plastic crisper box .
+2644.png,Pouring food into plastic crisper containers .
+2645.png,Pour the food into a plastic crisper. .
+2646.png,Pouring food into plastic crisper boxes .
+2647.png,Pouring food into a plastic crisper box .
+2648.png,Pouring food into plastic crisper containers .
+2652.png,Stir the food in the box with a spoon .
+2653.png,Stir the box with a spoon .
+2654.png,Stir the food in the box with a spoon .
+2655.png,Stir the box with a spoon .
+2656.png,Stir the food in the box with a spoon .
+2657.png,Stir the box with a spoon .
+2658.png,Stir the food in the box with a spoon .
+2659.png,Stir the box with a spoon .
+2660.png,Stir the food in the box with a spoon .
+2661.png,Stir the box with a spoon .
+2662.png,Stir the food in the box with a spoon .
+2663.png,Stir the box with a spoon .
+2664.png,Stir the food in the box with a spoon .
+2665.png,Stir the box with a spoon .
+2666.png,Stir the food in the box with a spoon .
+2667.png,Stir the box with a spoon .
+2668.png,Stir the food in the box with a spoon .
+2669.png,Stir the box with a spoon .
+2670.png,Stir the food in the box with a spoon .
+2671.png,Stir the box with a spoon .
+2672.png,Stir the food in the box with a spoon .
+2673.png,Stir the box with a spoon .
+2674.png,Stir the food in the box with a spoon .
+2675.png,Stir the box with a spoon .
+2676.png,Stir the food in the box with a spoon .
+2677.png,Stir the box with a spoon .
+2678.png,Stir the food in the box with a spoon .
+2679.png,Stir the box with a spoon .
+2680.png,Stir the food in the box with a spoon .
+2681.png,Stir the box with a spoon .
+2682.png,Stir the food in the box with a spoon .
+2683.png,Stir the box with a spoon .
+2684.png,Stir the food in the box with a spoon .
+2685.png,Stir the box with a spoon .
+2686.png,Stir the food in the box with a spoon .
+2687.png,Stir the box with a spoon .
+2688.png,Stir the food in the box with a spoon .
+2689.png,Stir the box with a spoon .
+2690.png,Pour the food into the box. .
+2691.png,Put the food in the crisper. .
+2692.png,Putting food in the crisper. .
+2693.png,Pour the food into the box. .
+2694.png,Put the food in the crisper. .
+2695.png,Putting food in the crisper. .
+2696.png,Pour the food into the box. .
+2697.png,Put the food in the crisper. .
+2698.png,Putting food in the crisper. .
+2699.png,Pour the food into the box. .
+2700.png,Put the food in the crisper. .
+2701.png,Putting food in the crisper. .
+2702.png,Pour the food into the box. .
+2703.png,Put the food in the crisper. .
+2704.png,Putting food in the crisper. .
+2705.png,Pour the food into the box. .
+2706.png,Put the food in the crisper. .
+2707.png,Putting food in the crisper. .
+2708.png,Pour the food into the box. .
+2709.png,Put the food in the crisper. .
+2710.png,Putting food in the crisper. .
+2711.png,Pour the food into the box. .
+2715.png,Washing kitchenware at the sink .
+2716.png,Washing kitchenware in the sink .
+2717.png,Washing kitchenware at the sink .
+2718.png,Washing kitchenware in the sink .
+2719.png,Washing kitchenware at the sink .
+2720.png,Washing kitchenware in the sink .
+2721.png,Washing kitchenware at the sink .
+2722.png,Washing kitchenware in the sink .
+2723.png,Washing kitchenware at the sink .
+2724.png,Washing kitchenware in the sink .
+2725.png,Washing kitchenware at the sink .
+2726.png,Washing kitchenware in the sink .
+2727.png,Washing kitchenware at the sink .
+2728.png,Washing kitchenware in the sink .
+2729.png,Washing kitchenware at the sink .
+2730.png,Washing kitchenware in the sink .
+2731.png,Washing kitchenware at the sink .
+2732.png,Washing kitchenware in the sink .
+2733.png,Washing kitchenware at the sink .
+2734.png,Washing kitchenware in the sink .
+2735.png,Washing kitchenware at the sink .
+2736.png,Washing kitchenware in the sink .
+2737.png,Washing kitchenware at the sink .
+2738.png,Washing kitchenware in the sink .
+2739.png,Washing kitchenware at the sink .
+2740.png,Washing kitchenware in the sink .
+2741.png,Washing kitchenware at the sink .
+2742.png,Washing kitchenware in the sink .
+2743.png,Washing kitchenware at the sink .
+2744.png,Washing kitchenware in the sink .
+2745.png,Washing kitchenware at the sink .
+2746.png,Washing kitchenware in the sink .
+2747.png,Washing kitchenware at the sink .
+2748.png,Washing kitchenware in the sink .
+2749.png,Washing kitchenware at the sink .
+2750.png,Washing kitchenware in the sink .
+2751.png,Washing kitchenware at the sink .
+2752.png,Washing kitchenware in the sink .
+2753.png,Washing kitchenware at the sink .
+2754.png,Washing kitchenware in the sink .
+2755.png,Washing kitchenware at the sink .
+2756.png,Washing kitchenware in the sink .
+2757.png,Washing kitchenware at the sink .
+2758.png,Washing kitchenware in the sink .
+2759.png,Washing kitchenware at the sink .
+2760.png,Washing kitchenware in the sink .
+2775.png,Washing kitchenware at the sink .
+2776.png,Washing kitchenware in the sink .
+2777.png,Washing kitchenware at the sink .
+2778.png,Washing kitchenware in the sink .
+2797.png,Washing kitchenware at the sink .
+2798.png,Washing kitchenware in the sink .
+2799.png,Washing kitchenware at the sink .
+2800.png,Washing kitchenware in the sink .
+2801.png,Washing kitchenware at the sink .
+2802.png,Washing kitchenware in the sink .
+2803.png,Washing kitchenware at the sink .
+2804.png,Washing kitchenware in the sink .
+2809.png,Washing kitchenware in the sink .
+2810.png,Washing kitchenware at the sink .
+2811.png,Washing kitchenware in the sink .
+2812.png,Washing kitchenware at the sink .
+2819.png,Washing kitchenware in the sink .
+2820.png,Washing kitchenware at the sink .
+2821.png,Washing kitchenware in the sink .
+2822.png,Washing kitchenware at the sink .
+2830.png,Putting a lid on your food. .
+2831.png,Put a lid on your food. .
+2832.png,Putting a lid on your food. .
+2833.png,Put a lid on your food. .
+2834.png,Putting a lid on your food. .
+2880.png,Cleaning rags in the sink .
+2881.png,Cleaning rags in the pool .
+2882.png,Cleaning rags in the sink .
+2883.png,Cleaning rags in the pool .
+2884.png,Cleaning rags in the sink .
+2885.png,Cleaning rags in the pool .
+2886.png,Cleaning rags in the sink .
+2887.png,Cleaning rags in the pool .
+2888.png,Cleaning rags in the sink .
+2889.png,Cleaning rags in the pool .
+2890.png,Cleaning rags in the sink .
+2891.png,Cleaning rags in the pool .
+2892.png,Cleaning rags in the sink .
+2893.png,Cleaning rags in the pool .
+2920.png,Dust the table with flour. .
+2921.png,Flour the table. .
+2922.png,Sprinkle the table with flour. .
+2923.png,Sprinkle the table with flour. .
+2924.png,Sprinkle flour on the table. .
+2925.png,Dust the table with flour. .
+2926.png,Flour the table. .
+2927.png,Sprinkle the table with flour. .
+2928.png,Sprinkle the table with flour. .
+2929.png,Sprinkle flour on the table. .
+2930.png,Dust the table with flour. .
+2931.png,Flour the table. .
+2932.png,Sprinkle the table with flour. .
+2933.png,Take the dough out of the pan and roll it out on the table. .
+2934.png,Take the dough out of the pan and roll it out on a table. .
+2935.png,Roll out the dough with a rolling pin .
+2936.png,Take the dough out of the pan and roll it out on the table. .
+2937.png,Take the dough out of the pan and roll it out on a table. .
+2938.png,Roll out the dough with a rolling pin .
+2939.png,Take the dough out of the pan and roll it out on the table. .
+2940.png,Take the dough out of the pan and roll it out on a table. .
+2941.png,Roll out the dough with a rolling pin .
+2942.png,Take the dough out of the pan and roll it out on the table. .
+2943.png,Take the dough out of the pan and roll it out on a table. .
+2944.png,Roll out the dough with a rolling pin .
+2945.png,Take the dough out of the pan and roll it out on the table. .
+2946.png,Take the dough out of the pan and roll it out on a table. .
+2947.png,Roll out the dough with a rolling pin .
+2948.png,Take the dough out of the pan and roll it out on the table. .
+2949.png,Take the dough out of the pan and roll it out on a table. .
+2950.png,Roll out the dough with a rolling pin .
+2951.png,Take the dough out of the pan and roll it out on the table. .
+2952.png,Take the dough out of the pan and roll it out on a table. .
+2953.png,Roll out the dough with a rolling pin .
+2954.png,Take the dough out of the pan and roll it out on the table. .
+2955.png,Take the dough out of the pan and roll it out on a table. .
+2956.png,Roll out the dough with a rolling pin .
+2957.png,Take the dough out of the pan and roll it out on the table. .
+2958.png,Take the dough out of the pan and roll it out on a table. .
+2959.png,Roll out the dough with a rolling pin .
+2960.png,Take the dough out of the pan and roll it out on the table. .
+2961.png,Take the dough out of the pan and roll it out on a table. .
+2962.png,Roll out the dough with a rolling pin .
+2963.png,Take the dough out of the pan and roll it out on the table. .
+2964.png,Take the dough out of the pan and roll it out on a table. .
+2965.png,Roll out the dough with a rolling pin .
+2966.png,Take the dough out of the pan and roll it out on the table. .
+2967.png,Take the dough out of the pan and roll it out on a table. .
+2968.png,Roll out the dough with a rolling pin .
+2969.png,Take the dough out of the pan and roll it out on the table. .
+2970.png,Take the dough out of the pan and roll it out on a table. .
+2971.png,Roll out the dough with a rolling pin .
+2972.png,Take the dough out of the pan and roll it out on the table. .
+2973.png,Take the dough out of the pan and roll it out on a table. .
+2974.png,Roll out the dough with a rolling pin .
+2975.png,Take the dough out of the pan and roll it out on the table. .
+2976.png,Take the dough out of the pan and roll it out on a table. .
+2977.png,Roll out the dough with a rolling pin .
+2978.png,Take the dough out of the pan and roll it out on the table. .
+2979.png,Take the dough out of the pan and roll it out on a table. .
+2980.png,Roll out the dough with a rolling pin .
+2981.png,Take the dough out of the pan and roll it out on the table. .
+2982.png,Take the dough out of the pan and roll it out on a table. .
+2983.png,Roll out the dough with a rolling pin .
+2984.png,Take the dough out of the pan and roll it out on the table. .
+2985.png,Take the dough out of the pan and roll it out on a table. .
+2986.png,Roll out the dough with a rolling pin .
+2987.png,Take the dough out of the pan and roll it out on the table. .
+2988.png,Take the dough out of the pan and roll it out on a table. .
+2989.png,Roll out the dough with a rolling pin .
+2990.png,Take the dough out of the pan and roll it out on the table. .
+2991.png,Take the dough out of the pan and roll it out on a table. .
+2992.png,Roll out the dough with a rolling pin .
+2993.png,Take the dough out of the pan and roll it out on the table. .
+2994.png,Take the dough out of the pan and roll it out on a table. .
+2995.png,Roll out the dough with a rolling pin .
+2996.png,Take the dough out of the pan and roll it out on the table. .
+2997.png,Take the dough out of the pan and roll it out on a table. .
+2998.png,Roll out the dough with a rolling pin .
+2999.png,Take the dough out of the pan and roll it out on the table. .
+3000.png,Take the dough out of the pan and roll it out on a table. .
+3001.png,Roll out the dough with a rolling pin .
+3002.png,Take the dough out of the pan and roll it out on the table. .
+3003.png,Take the dough out of the pan and roll it out on a table. .
+3004.png,Roll out the dough with a rolling pin .
+3005.png,Take the dough out of the pan and roll it out on the table. .
+3006.png,Take the dough out of the pan and roll it out on a table. .
+3007.png,Roll out the dough with a rolling pin .
+3008.png,Take the dough out of the pan and roll it out on the table. .
+3009.png,Take the dough out of the pan and roll it out on a table. .
+3010.png,Roll out the dough with a rolling pin .
+3011.png,Take the dough out of the pan and roll it out on the table. .
+3028.png,Use the cooker to handle the pastry .
+3029.png,Use your cooker to handle the pastry .
+3030.png,Use the cooker to handle the pastry .
+3031.png,Use your cooker to handle the pastry .
+3032.png,Use the cooker to handle the pastry .
+3033.png,Use your cooker to handle the pastry .
+3034.png,Use the cooker to handle the pastry .
+3035.png,Use your cooker to handle the pastry .
+3036.png,Use the cooker to handle the pastry .
+3037.png,Use your cooker to handle the pastry .
+3038.png,Use the cooker to handle the pastry .
+3039.png,Use your cooker to handle the pastry .
+3040.png,Use the cooker to handle the pastry .
+3041.png,Use your cooker to handle the pastry .
+3042.png,Use the cooker to handle the pastry .
+3043.png,Use your cooker to handle the pastry .
+3044.png,Use the cooker to handle the pastry .
+3045.png,Use your cooker to handle the pastry .
+3046.png,Use the cooker to handle the pastry .
+3047.png,Use your cooker to handle the pastry .
+3048.png,Use the cooker to handle the pastry .
+3049.png,Use your cooker to handle the pastry .
+3050.png,Use the cooker to handle the pastry .
+3051.png,Use your cooker to handle the pastry .
+3052.png,Use the cooker to handle the pastry .
+3053.png,Use your cooker to handle the pastry .
+3054.png,Use the cooker to handle the pastry .
+3055.png,Use your cooker to handle the pastry .
+3056.png,Use the cooker to handle the pastry .
+3057.png,Use your cooker to handle the pastry .
+3058.png,Use the cooker to handle the pastry .
+3059.png,Use your cooker to handle the pastry .
+3060.png,Use the cooker to handle the pastry .
+3061.png,Use your cooker to handle the pastry .
+3062.png,Use the cooker to handle the pastry .
+3063.png,Use your cooker to handle the pastry .
+3064.png,Use the cooker to handle the pastry .
+3065.png,Use your cooker to handle the pastry .
+3066.png,Use the cooker to handle the pastry .
+3067.png,Use your cooker to handle the pastry .
+3068.png,Use the cooker to handle the pastry .
+3069.png,Use your cooker to handle the pastry .
+3070.png,Use the cooker to handle the pastry .
+3071.png,Use your cooker to handle the pastry .
+3072.png,Use the cooker to handle the pastry .
+3073.png,Use your cooker to handle the pastry .
+3074.png,Use the cooker to handle the pastry .
+3075.png,Use your cooker to handle the pastry .
+3076.png,Use the cooker to handle the pastry .
+3077.png,Use your cooker to handle the pastry .
+3078.png,Use the cooker to handle the pastry .
+3079.png,Use your cooker to handle the pastry .
+3080.png,Clear the table of dough. .
+3081.png,Clearing the table of dough .
+3082.png,Clearing dough off the table .
+3083.png,Clear the table of dough. .
+3084.png,Clearing the table of dough .
+3085.png,Clearing dough off the table .
+3086.png,Clear the table of dough. .
+3093.png,Take the dough out of the pan and roll it out with a rolling pin .
+3094.png,Take the dough out of the pan and roll it out with a rolling pin .
+3095.png,Take the dough out of the pan and roll it out with a rolling pin .
+3096.png,Take the dough out of the pan and roll it out with a rolling pin .
+3097.png,Take the dough out of the pan and roll it out with a rolling pin .
+3098.png,Take the dough out of the pan and roll it out with a rolling pin .
+3099.png,Take the dough out of the pan and roll it out with a rolling pin .
+3100.png,Take the dough out of the pan and roll it out with a rolling pin .
+3101.png,Take the dough out of the pan and roll it out with a rolling pin .
+3102.png,Take the dough out of the pan and roll it out with a rolling pin .
+3103.png,Take the dough out of the pan and roll it out with a rolling pin .
+3104.png,Take the dough out of the pan and roll it out with a rolling pin .
+3105.png,Take the dough out of the pan and roll it out with a rolling pin .
+3106.png,Take the dough out of the pan and roll it out with a rolling pin .
+3107.png,Take the dough out of the pan and roll it out with a rolling pin .
+3108.png,Take the dough out of the pan and roll it out with a rolling pin .
+3109.png,Take the dough out of the pan and roll it out with a rolling pin .
+3110.png,Take the dough out of the pan and roll it out with a rolling pin .
+3111.png,Roll out the dough with a rolling pin .
+3112.png,Take the dough out of the pan and roll it out with a rolling pin .
+3113.png,Roll out the dough with a rolling pin .
+3114.png,Take the dough out of the pan and roll it out with a rolling pin .
+3115.png,Roll out the dough with a rolling pin .
+3116.png,Take the dough out of the pan and roll it out with a rolling pin .
+3117.png,Roll out the dough with a rolling pin .
+3118.png,Roll out the dough with a rolling pin .
+3119.png,Roll out the dough with a rolling pin .
+3120.png,Roll out the dough with a rolling pin .
+3121.png,Roll out the dough with a rolling pin .
+3122.png,Roll out the dough with a rolling pin .
+3123.png,Roll out the dough with a rolling pin .
+3124.png,Roll out the dough with a rolling pin .
+3125.png,Roll out the dough with a rolling pin .
+3126.png,Roll out the dough with a rolling pin .
+3127.png,Roll out the dough with a rolling pin .
+3128.png,Roll out the dough with a rolling pin .
+3129.png,Roll out the dough with a rolling pin .
+3130.png,Roll out the dough with a rolling pin .
+3131.png,Roll out the dough with a rolling pin .
+3132.png,Roll out the dough with a rolling pin .
+3133.png,Roll out the dough with a rolling pin .
+3134.png,Roll out the dough with a rolling pin .
+3135.png,Roll out the dough with a rolling pin .
+3136.png,Roll out the dough with a rolling pin .
+3137.png,Roll out the dough with a rolling pin .
+3138.png,Roll out the dough with a rolling pin .
+3139.png,Roll out the dough with a rolling pin .
+3140.png,Roll out the dough with a rolling pin .
+3141.png,Roll out the dough with a rolling pin .
+3142.png,Roll out the dough with a rolling pin .
+3143.png,Roll out the dough with a rolling pin .
+3144.png,Roll out the dough with a rolling pin .
+3145.png,Roll out the dough with a rolling pin .
+3146.png,Roll out the dough with a rolling pin .
+3147.png,Roll out the dough with a rolling pin .
+3148.png,Roll out the dough with a rolling pin .
+3149.png,Roll out the dough with a rolling pin .
+3150.png,Roll out the dough with a rolling pin .
+3151.png,Roll out the dough with a rolling pin .
+3152.png,Roll out the dough with a rolling pin .
+3153.png,Roll out the dough with a rolling pin .
+3154.png,Roll out the dough with a rolling pin .
+3155.png,Roll out the dough with a rolling pin .
+3156.png,Roll out the dough with a rolling pin .
+3157.png,Roll out the dough with a rolling pin .
+3158.png,Roll out the dough with a rolling pin .
+3159.png,Roll out the dough with a rolling pin .
+3160.png,Roll out the dough with a rolling pin .
+3161.png,Roll out the dough with a rolling pin .
+3162.png,Roll out the dough with a rolling pin .
+3163.png,Roll out the dough with a rolling pin .
+3164.png,Roll out the dough with a rolling pin .
+3165.png,Roll out the dough with a rolling pin .
+3166.png,Roll out the dough with a rolling pin .
+3167.png,Roll out the dough with a rolling pin .
+3168.png,Roll out the dough with a rolling pin .
+3169.png,Roll out the dough with a rolling pin .
+3170.png,Roll out the dough with a rolling pin .
+3171.png,Roll out the dough with a rolling pin .
+3172.png,Roll out the dough with a rolling pin .
+3173.png,Roll out the dough with a rolling pin .
+3174.png,Roll out the dough with a rolling pin .
+3175.png,Roll out the dough with a rolling pin .
+3176.png,Roll out the dough with a rolling pin .
+3177.png,Roll out the dough with a rolling pin .
+3178.png,Roll out the dough with a rolling pin .
+3179.png,Roll out the dough with a rolling pin .
+3180.png,Roll out the dough with a rolling pin .
+3181.png,Roll out the dough with a rolling pin .
+3182.png,Roll out the dough with a rolling pin .
+3183.png,Roll out the dough with a rolling pin .
+3184.png,Roll out the dough with a rolling pin .
+3185.png,Roll out the dough with a rolling pin .
+3186.png,Roll out the dough with a rolling pin .
+3187.png,Roll out the dough with a rolling pin .
+3188.png,Roll out the dough with a rolling pin .
+3189.png,Roll out the dough with a rolling pin .
+3190.png,Roll out the dough with a rolling pin .
+3191.png,Roll out the dough with a rolling pin .
+3192.png,Roll out the dough with a rolling pin .
+3193.png,Roll out the dough with a rolling pin .
+3194.png,Roll out the dough with a rolling pin .
+3195.png,Shape the dough with the cooker .
+3196.png,Use your cooker to handle the pastry .
+3197.png,Shape the dough with the cooker .
+3198.png,Use your cooker to handle the pastry .
+3199.png,Shape the dough with the cooker .
+3200.png,Use your cooker to handle the pastry .
+3201.png,Shape the dough with the cooker .
+3202.png,Use your cooker to handle the pastry .
+3203.png,Shape the dough with the cooker .
+3204.png,Use your cooker to handle the pastry .
+3205.png,Shape the dough with the cooker .
+3206.png,Use your cooker to handle the pastry .
+3207.png,Shape the dough with the cooker .
+3208.png,Use your cooker to handle the pastry .
+3209.png,Shape the dough with the cooker .
+3210.png,Use your cooker to handle the pastry .
+3211.png,Shape the dough with the cooker .
+3212.png,Use your cooker to handle the pastry .
+3213.png,Shape the dough with the cooker .
+3214.png,Use your cooker to handle the pastry .
+3215.png,Shape the dough with the cooker .
+3216.png,Use your cooker to handle the pastry .
+3217.png,Shape the dough with the cooker .
+3218.png,Use your cooker to handle the pastry .
+3219.png,Shape the dough with the cooker .
+3220.png,Use your cooker to handle the pastry .
+3221.png,Shape the dough with the cooker .
+3222.png,Use your cooker to handle the pastry .
+3223.png,Shape the dough with the cooker .
+3224.png,Use your cooker to handle the pastry .
+3225.png,Shape the dough with the cooker .
+3226.png,Use your cooker to handle the pastry .
+3227.png,Shape the dough with the cooker .
+3228.png,Use your cooker to handle the pastry .
+3229.png,Shape the dough with the cooker .
+3230.png,Use your cooker to handle the pastry .
+3231.png,Shape the dough with the cooker .
+3232.png,Use your cooker to handle the pastry .
+3233.png,Shape the dough with the cooker .
+3234.png,Use your cooker to handle the pastry .
+3235.png,Shape the dough with the cooker .
+3236.png,Use your cooker to handle the pastry .
+3237.png,Shape the dough with the cooker .
+3311.png,Cutting vegetables with a knife on a chopping board .
+3312.png,Cutting vegetables with a knife on a chopping board .
+3313.png,Cutting vegetables with a knife on a chopping board .
+3314.png,Cutting vegetables with a knife on a chopping board .
+3315.png,Cutting vegetables with a knife on a chopping board .
+3316.png,Cutting vegetables with a knife on a chopping board .
+3317.png,Cutting vegetables with a knife on a chopping board .
+3318.png,Cutting vegetables with a knife on a chopping board .
+3319.png,Cutting vegetables with a knife on a chopping board .
+3320.png,Cutting vegetables with a knife on a chopping board .
+3321.png,Cutting vegetables with a knife on a chopping board .
+3322.png,Cutting vegetables with a knife on a chopping board .
+3323.png,Cutting vegetables with a knife on a chopping board .
+3324.png,Cutting vegetables with a knife on a chopping board .
+3325.png,Cutting vegetables with a knife on a chopping board .
+3326.png,Cutting vegetables with a knife on a chopping board .
+3327.png,Cutting vegetables with a knife on a chopping board .
+3328.png,Cutting vegetables with a knife on a chopping board .
+3329.png,Cutting vegetables with a knife on a chopping board .
+3330.png,Cutting vegetables with a knife on a chopping board .
+3331.png,Cutting vegetables with a knife on a chopping board .
+3332.png,Cutting vegetables with a knife on a chopping board .
+3333.png,Cutting vegetables with a knife on a chopping board .
+3334.png,Cutting vegetables with a knife on a chopping board .
+3335.png,Cutting vegetables with a knife on a chopping board .
+3336.png,Cutting vegetables with a knife on a chopping board .
+3337.png,Cutting vegetables with a knife on a chopping board .
+3338.png,Cutting vegetables with a knife on a chopping board .
+3339.png,Cutting vegetables with a knife on a chopping board .
+3340.png,Cutting vegetables with a knife on a chopping board .
+3341.png,Cutting vegetables with a knife on a chopping board .
+3342.png,Cutting vegetables with a knife on a chopping board .
+3343.png,Cutting vegetables with a knife on a chopping board .
+3359.png,Cut open food packages with scissors .
+3360.png,Cutting open food packages with scissors .
+3361.png,Cut open food packaging with scissors .
+3362.png,Cutting open food packaging with scissors .
+3363.png,Cut open food packages with scissors .
+3364.png,Cutting open food packages with scissors .
+3365.png,Cut open food packaging with scissors .
+3366.png,Cutting open food packaging with scissors .
+3367.png,Cut open food packages with scissors .
+3368.png,Cutting open food packages with scissors .
+3372.png,Pour the tomato sauce over the pastry and spread it out .
+3373.png,Pour the tomato sauce over the pastry and spread it out .
+3374.png,Pour the tomato sauce over the pastry and spread it out .
+3375.png,Pour the tomato sauce over the pastry and spread it out .
+3376.png,Pour the tomato sauce over the pastry and spread it out .
+3377.png,Pour the tomato sauce over the pastry and spread it out .
+3378.png,Pour the tomato sauce over the pastry and spread it out .
+3379.png,Pour the tomato sauce over the pastry and spread it out .
+3380.png,Pour the tomato sauce over the pastry and spread it out .
+3381.png,Pour the tomato sauce over the pastry and spread it out .
+3382.png,Pour the tomato sauce over the pastry and spread it out .
+3383.png,Pour the tomato sauce over the pastry and spread it out .
+3384.png,Pour the tomato sauce over the pastry and spread it out .
+3385.png,Pour the tomato sauce over the pastry and spread it out .
+3386.png,Pour the tomato sauce over the pastry and spread it out .
+3387.png,Pour the tomato sauce over the pastry and spread it out .
+3388.png,Pour the tomato sauce over the pastry and spread it out .
+3389.png,Pour the tomato sauce over the pastry and spread it out .
+3390.png,Pour the tomato sauce over the pastry and spread it out .
+3391.png,Pour the tomato sauce over the pastry and spread it out .
+3392.png,Pour the tomato sauce over the pastry and spread it out .
+3393.png,Pour the tomato sauce over the pastry and spread it out .
+3394.png,Pour the tomato sauce over the pastry and spread it out .
+3395.png,Pour the tomato sauce over the pastry and spread it out .
+3396.png,Pour the tomato sauce over the pastry and spread it out .
+3397.png,Pour the tomato sauce over the pastry and spread it out .
+3398.png,Pour the tomato sauce over the pastry and spread it out .
+3399.png,Pour the tomato sauce over the pastry and spread it out .
+3400.png,Pour the tomato sauce over the pastry and spread it out .
+3401.png,Pour the tomato sauce over the pastry and spread it out .
+3402.png,Pour the tomato sauce over the pastry and spread it out .
+3403.png,Pour the tomato sauce over the pastry and spread it out .
+3404.png,Pour the tomato sauce over the pastry and spread it out .
+3405.png,Pour the tomato sauce over the pastry and spread it out .
+3406.png,Pour the tomato sauce over the pastry and spread it out .
+3407.png,Pour the tomato sauce over the pastry and spread it out .
+3408.png,Pour the tomato sauce over the pastry and spread it out .
+3409.png,Pour the tomato sauce over the pastry and spread it out .
+3410.png,Pour the tomato sauce over the pastry and spread it out .
+3411.png,Pour the tomato sauce over the pastry and spread it out .
+3412.png,Pour the tomato sauce over the pastry and spread it out .
+3413.png,Pour the tomato sauce over the pastry and spread it out .
+3414.png,Pour the tomato sauce over the pastry and spread it out .
+3415.png,Pour the tomato sauce over the pastry and spread it out .
+3416.png,Pour the tomato sauce over the pastry and spread it out .
+3417.png,Pour the tomato sauce over the pastry and spread it out .
+3418.png,Pour the tomato sauce over the pastry and spread it out .
+3419.png,Pour the tomato sauce over the pastry and spread it out .
+3420.png,Pour the tomato sauce over the pastry and spread it out .
+3425.png,Cutting vegetables with a knife on a chopping board .
+3426.png,Cutting vegetables with a knife on a chopping board .
+3427.png,Cutting vegetables with a knife on a chopping board .
+3428.png,Cutting vegetables with a knife on a chopping board .
+3429.png,Cutting vegetables with a knife on a chopping board .
+3430.png,Cutting vegetables with a knife on a chopping board .
+3431.png,Cutting vegetables with a knife on a chopping board .
+3432.png,Cutting vegetables with a knife on a chopping board .
+3433.png,Cutting vegetables with a knife on a chopping board .
+3434.png,Cutting vegetables with a knife on a chopping board .
+3435.png,Cutting vegetables with a knife on a chopping board .
+3436.png,Cutting vegetables with a knife on a chopping board .
+3437.png,Cutting vegetables with a knife on a chopping board .
+3438.png,Cutting vegetables with a knife on a chopping board .
+3439.png,Cutting vegetables with a knife on a chopping board .
+3440.png,Spread the vegetables evenly over the pastry .
+3441.png,Spread the vegetables evenly over the pastry .
+3442.png,Spread the vegetables evenly over the pastry .
+3443.png,Spread the vegetables evenly over the pastry .
+3444.png,Spread the vegetables evenly over the pastry .
+3445.png,Spread the vegetables evenly over the pastry .
+3446.png,Spread the vegetables evenly over the pastry .
+3447.png,Spread the vegetables evenly over the pastry .
+3448.png,Spread the vegetables evenly over the pastry .
+3449.png,Spread the vegetables evenly over the pastry .
+3450.png,Spread the vegetables evenly over the pastry .
+3451.png,Spread the vegetables evenly over the pastry .
+3452.png,Spread the vegetables evenly over the pastry .
+3453.png,Spread the vegetables evenly over the pastry .
+3454.png,Spread the vegetables evenly over the pastry .
+3455.png,Spread the vegetables evenly over the pastry .
+3456.png,Spread the vegetables evenly over the pastry .
+3457.png,Spread the vegetables evenly over the pastry .
+3458.png,Spread the vegetables evenly over the pastry .
+3459.png,Spread the vegetables evenly over the pastry .
+3460.png,Spread the vegetables evenly over the pastry .
+3461.png,Spread the vegetables evenly over the pastry .
+3462.png,Spread the vegetables evenly over the pastry .
+3463.png,Spread the vegetables evenly over the pastry .
+3464.png,Spread the vegetables evenly over the pastry .
+3465.png,Spread the vegetables evenly over the pastry .
+3466.png,Spread the vegetables evenly over the pastry .
+3467.png,Spread the vegetables evenly over the pastry .
+3468.png,Spread the vegetables evenly over the pastry .
+3469.png,Spread the vegetables evenly over the pastry .
+3470.png,Spread the vegetables evenly over the pastry .
+3471.png,Spread the vegetables evenly over the pastry .
+3472.png,Spread the vegetables evenly over the pastry .
+3473.png,Spread the vegetables evenly over the pastry .
+3474.png,Spread the vegetables evenly over the pastry .
+3475.png,Open the can. .
+3476.png,Open the can. .
+3477.png,Open the can. .
+3478.png,Pour the juice from the can into the sink. .
+3479.png,Pour the juice from the can into the sink. .
+3480.png,Pour the juice from the can into the sink. .
+3481.png,Pour the juice from the can into the sink. .
+3482.png,Pour the juice from the can into the sink. .
+3483.png,Pour the juice from the can into the sink. .
+3484.png,Pour the juice from the can into the sink. .
+3485.png,Pour the juice from the can into the sink. .
+3486.png,Pour the juice from the can into the sink. .
+3487.png,Pour the juice from the can into the sink. .
+3488.png,Pour the juice from the can into the sink. .
+3489.png,Pour the juice from the can into the sink. .
+3490.png,Pour the juice from the can into the sink. .
+3491.png,Pour the juice from the can into the sink. .
+3492.png,Pour the juice from the can into the sink. .
+3493.png,Pour the juice from the can into the sink. .
+3494.png,Pour the juice from the can into the sink. .
+3495.png,Pour the juice from the can into the sink. .
+3496.png,Pour the juice from the can into the sink. .
+3497.png,Pour the juice from the can into the sink. .
+3498.png,Pour the juice from the can into the sink. .
+3499.png,Pour the juice from the can into the sink. .
+3500.png,Pour the juice from the can into the sink. .
+3501.png,Pour the juice from the can into the sink. .
+3502.png,Open the can. .
+3503.png,Open the can. .
+3504.png,Open the can. .
+3510.png,Spread the vegetables evenly over the pastry .
+3511.png,Spread the vegetables evenly over the pastry .
+3512.png,Spread the vegetables evenly over the pastry .
+3513.png,Spread the vegetables evenly over the pastry .
+3514.png,Spread the vegetables evenly over the pastry .
+3515.png,Spread the vegetables evenly over the pastry .
+3516.png,Spread the vegetables evenly over the pastry .
+3517.png,Spread the vegetables evenly over the pastry .
+3518.png,Spread the vegetables evenly over the pastry .
+3519.png,Spread the vegetables evenly over the pastry .
+3520.png,Spread the vegetables evenly over the pastry .
+3521.png,Spread the vegetables evenly over the pastry .
+3522.png,Spread the vegetables evenly over the pastry .
+3523.png,Spread the vegetables evenly over the pastry .
+3524.png,Spread the vegetables evenly over the pastry .
+3525.png,Spread the vegetables evenly over the pastry .
+3526.png,Spread the vegetables evenly over the pastry .
+3527.png,Spread the vegetables evenly over the pastry .
+3528.png,Spread the vegetables evenly over the pastry .
+3529.png,Spread the vegetables evenly over the pastry .
+3530.png,Spread the vegetables evenly over the pastry .
+3531.png,Spread the vegetables evenly over the pastry .
+3532.png,Spread the vegetables evenly over the pastry .
+3533.png,Spread the vegetables evenly over the pastry .
+3534.png,Spread the vegetables evenly over the pastry .
+3535.png,Spread the vegetables evenly over the pastry .
+3536.png,Spread the vegetables evenly over the pastry .
+3537.png,Spread the vegetables evenly over the pastry .
+3538.png,Spread the vegetables evenly over the pastry .
+3539.png,Spread the vegetables evenly over the pastry .
+3540.png,Spread the vegetables evenly over the pastry .
+3541.png,Spread the vegetables evenly over the pastry .
+3546.png,Spread the vegetables evenly over the pastry .
+3547.png,Spread the vegetables evenly over the pastry .
+3548.png,Spread the vegetables evenly over the pastry .
+3549.png,Spread the vegetables evenly over the pastry .
+3550.png,Spread the vegetables evenly over the pastry .
+3551.png,Spread the vegetables evenly over the pastry .
+3552.png,Spread the vegetables evenly over the pastry .
+3553.png,Spread the vegetables evenly over the pastry .
+3554.png,Spread the vegetables evenly over the pastry .
+3555.png,Spread the vegetables evenly over the pastry .
+3556.png,Spread the vegetables evenly over the pastry .
+3557.png,Spread the vegetables evenly over the pastry .
+3558.png,Spread the vegetables evenly over the pastry .
+3559.png,Spread the vegetables evenly over the pastry .
+3560.png,Spread the vegetables evenly over the pastry .
+3561.png,Spread the vegetables evenly over the pastry .
+3562.png,Spread the vegetables evenly over the pastry .
+3563.png,Spread the vegetables evenly over the pastry .
+3564.png,Spread the vegetables evenly over the pastry .
+3565.png,Spread the vegetables evenly over the pastry .
+3566.png,Spread the vegetables evenly over the pastry .
+3567.png,Spread the vegetables evenly over the pastry .
+3568.png,Spread the vegetables evenly over the pastry .
+3569.png,Spread the vegetables evenly over the pastry .
+3570.png,Spread the vegetables evenly over the pastry .
+3571.png,Spread the vegetables evenly over the pastry .
+3572.png,Spread the vegetables evenly over the pastry .
+3573.png,Spread the vegetables evenly over the pastry .
+3574.png,Spread the vegetables evenly over the pastry .
+3575.png,Spread the vegetables evenly over the pastry .
+3710.png,Spread the vegetables evenly over the pastry .
+3711.png,Spread the vegetables evenly over the pastry .
+3712.png,Spread the vegetables evenly over the pastry .
+3713.png,Spread the vegetables evenly over the pastry .
+3714.png,Spread the vegetables evenly over the pastry .
+3715.png,Spread the vegetables evenly over the pastry .
+3716.png,Spread the vegetables evenly over the pastry .
+3717.png,Spread the vegetables evenly over the pastry .
+3718.png,Spread the vegetables evenly over the pastry .
+3719.png,Spread the vegetables evenly over the pastry .
+3720.png,Spread the vegetables evenly over the pastry .
+3721.png,Spread the vegetables evenly over the pastry .
+3722.png,Spread the vegetables evenly over the pastry .
+3723.png,Spread the vegetables evenly over the pastry .
+3724.png,Spread the vegetables evenly over the pastry .
+3725.png,Spread the vegetables evenly over the pastry .
+3726.png,Spread the vegetables evenly over the pastry .
+3737.png,Use a knife to cut open the bag of food .
+3738.png,Use a knife to cut open food bags .
+3739.png,Use a knife to cut open the food bag .
+3740.png,Use a knife to cut open the bag of food .
+3741.png,Use a knife to cut open food bags .
+3742.png,Use a knife to cut open the food bag .
+3743.png,Use a knife to cut open the bag of food .
+3744.png,Use a knife to cut open food bags .
+3745.png,Use a knife to cut open the food bag .
+3746.png,Use a knife to cut open the bag of food .
+3774.png,Cutting things on the chopping board with a knife .
+3775.png,Cutting things on the chopping board with a knife .
+3776.png,Cutting things on the chopping board with a knife .
+3777.png,Cutting things on the chopping board with a knife .
+3778.png,Cutting things on the chopping board with a knife .
+3779.png,Cutting things on the chopping board with a knife .
+3780.png,Cutting things on the chopping board with a knife .
+3781.png,Cutting things on the chopping board with a knife .
+3782.png,Cutting things on the chopping board with a knife .
+3783.png,Cutting things on the chopping board with a knife .
+3784.png,Cutting things on the chopping board with a knife .
+3785.png,Cutting things on the chopping board with a knife .
+3786.png,Cutting things on the chopping board with a knife .
+3787.png,Cutting things on the chopping board with a knife .
+3788.png,Cutting things on the chopping board with a knife .
+3789.png,Cutting things on the chopping board with a knife .
+3790.png,Cutting things on the chopping board with a knife .
+3791.png,Cutting things on the chopping board with a knife .
+3795.png,Sprinkle the side dishes over the pastry .
+3796.png,Sprinkle the side dishes over the pastry .
+3797.png,Sprinkle the side dishes over the pastry .
+3798.png,Sprinkle the side dishes over the pastry .
+3799.png,Sprinkle the side dishes over the pastry .
+3800.png,Sprinkle the side dishes over the pastry .
+3801.png,Sprinkle the side dishes over the pastry .
+3802.png,Sprinkle the side dishes over the pastry .
+3803.png,Sprinkle the side dishes over the pastry .
+3804.png,Sprinkle the side dishes over the pastry .
+3805.png,Sprinkle the side dishes over the pastry .
+3806.png,Sprinkle the side dishes over the pastry .
+3807.png,Sprinkle the side dishes over the pastry .
+3808.png,Sprinkle the side dishes over the pastry .
+3809.png,Sprinkle the side dishes over the pastry .
+3810.png,Sprinkle the side dishes over the pastry .
+3811.png,Sprinkle the side dishes over the pastry .
+3812.png,Sprinkle the side dishes over the pastry .
+3830.png,Cutting things on the chopping board with a knife .
+3831.png,Cutting things on the chopping board with a knife .
+3832.png,Cutting things on the chopping board with a knife .
+3833.png,Cutting things on the chopping board with a knife .
+3834.png,Cutting things on the chopping board with a knife .
+3835.png,Cutting things on the chopping board with a knife .
+3836.png,Cutting things on the chopping board with a knife .
+3837.png,Cutting things on the chopping board with a knife .
+3838.png,Cutting things on the chopping board with a knife .
+3839.png,Cutting things on the chopping board with a knife .
+3840.png,Cutting things on the chopping board with a knife .
+3841.png,Cutting things on the chopping board with a knife .
+3842.png,Cutting things on the chopping board with a knife .
+3843.png,Cutting things on the chopping board with a knife .
+3844.png,Cutting things on the chopping board with a knife .
+3845.png,Cutting things on the chopping board with a knife .
+3846.png,Cutting things on the chopping board with a knife .
+3847.png,Cutting things on the chopping board with a knife .
+3848.png,Cutting things on the chopping board with a knife .
+3849.png,Cutting things on the chopping board with a knife .
+3850.png,Cutting things on the chopping board with a knife .
+3851.png,Cutting things on the chopping board with a knife .
+3852.png,Cutting things on the chopping board with a knife .
+3853.png,Cutting things on the chopping board with a knife .
+3854.png,Cutting things on the chopping board with a knife .
+3855.png,Cutting things on the chopping board with a knife .
+3856.png,Cutting things on the chopping board with a knife .
+3857.png,Cutting things on the chopping board with a knife .
+3858.png,Cutting things on the chopping board with a knife .
+3859.png,Cutting things on the chopping board with a knife .
+3868.png,Put the food in the box. .
+3869.png,Box the food. .
+3870.png,Put the food in boxes. .
+3871.png,Put the food in the box. .
+3872.png,Box the food. .
+3873.png,Put the food in boxes. .
+3874.png,Put the food in the box. .
+3875.png,Box the food. .
+3876.png,Put the food in boxes. .
+3877.png,Put the food in the box. .
+3878.png,Box the food. .
+3879.png,Put the food in boxes. .
+3880.png,Put the food in the box. .
+3881.png,Box the food. .
+3916.png,Turn the oven on. .
+3917.png,Turn on the oven. .
+3918.png,Put the oven on. .
+3919.png,Open the oven. .
+3920.png,Turn the oven on. .
+3921.png,Turn on the oven. .
+3922.png,Put the oven on. .
+3923.png,Open the oven. .
+3924.png,Turn the oven on. .
+3925.png,Turn on the oven. .
+3926.png,Put the oven on. .
+3927.png,Open the oven. .
+3928.png,Turn the oven on. .
+3929.png,Turn on the oven. .
+3931.png,Cutting food on a chopping board .
+3932.png,Cutting food on the chopping board .
+3933.png,Cutting food on a chopping board .
+3934.png,Cutting food on the chopping board .
+3935.png,Cutting food on a chopping board .
+3936.png,Cutting food on the chopping board .
+3937.png,Cutting food on a chopping board .
+3938.png,Cutting food on the chopping board .
+3941.png,Sprinkle the side dishes evenly over the pizza .
+3942.png,Sprinkle the side dishes evenly over the pizza .
+3943.png,Sprinkle the side dishes evenly over the pizza .
+3944.png,Sprinkle the side dishes evenly over the pizza .
+3945.png,Sprinkle the side dishes evenly over the pizza .
+3946.png,Sprinkle the side dishes evenly over the pizza .
+3947.png,Sprinkle the side dishes evenly over the pizza .
+3948.png,Sprinkle the side dishes evenly over the pizza .
+3949.png,Sprinkle the side dishes evenly over the pizza .
+3950.png,Sprinkle the side dishes evenly over the pizza .
+3951.png,Sprinkle the side dishes evenly over the pizza .
+3952.png,Sprinkle the side dishes evenly over the pizza .
+3953.png,Sprinkle the side dishes evenly over the pizza .
+3954.png,Sprinkle the side dishes evenly over the pizza .
+3955.png,Sprinkle the side dishes evenly over the pizza .
+3956.png,Sprinkle the side dishes evenly over the pizza .
+3957.png,Sprinkle the side dishes evenly over the pizza .
+3958.png,Sprinkle the side dishes evenly over the pizza .
+3959.png,Sprinkle the side dishes evenly over the pizza .
+3960.png,Sprinkle the side dishes evenly over the pizza .
+3961.png,Sprinkle the side dishes evenly over the pizza .
+3962.png,Sprinkle the side dishes evenly over the pizza .
+3963.png,Sprinkle the side dishes evenly over the pizza .
+3964.png,Sprinkle the side dishes evenly over the pizza .
+3965.png,Sprinkle the side dishes evenly over the pizza .
+3966.png,Sprinkle the side dishes evenly over the pizza .
+3967.png,Sprinkle the side dishes evenly over the pizza .
+3968.png,Sprinkle the side dishes evenly over the pizza .
+3969.png,Sprinkle the side dishes evenly over the pizza .
+3970.png,Sprinkle the side dishes evenly over the pizza .
+3971.png,Sprinkle the side dishes evenly over the pizza .
+3972.png,Sprinkle the side dishes evenly over the pizza .
+3973.png,Sprinkle the side dishes evenly over the pizza .
+3974.png,Sprinkle the side dishes evenly over the pizza .
+3975.png,Sprinkle the side dishes evenly over the pizza .
+3976.png,Sprinkle the side dishes evenly over the pizza .
+3977.png,Sprinkle the side dishes evenly over the pizza .
+3978.png,Sprinkle the side dishes evenly over the pizza .
+3979.png,Sprinkle the side dishes evenly over the pizza .
+3980.png,Sprinkle the side dishes evenly over the pizza .
+3981.png,Sprinkle the side dishes evenly over the pizza .
+3982.png,Sprinkle the side dishes evenly over the pizza .
+3983.png,Sprinkle the side dishes evenly over the pizza .
+3984.png,Sprinkle the side dishes evenly over the pizza .
+3985.png,Sprinkle the side dishes evenly over the pizza .
+3986.png,Sprinkle the side dishes evenly over the pizza .
+3987.png,Sprinkle the side dishes evenly over the pizza .
+3988.png,Sprinkle the side dishes evenly over the pizza .
+3989.png,Sprinkle the side dishes evenly over the pizza .
+3990.png,Sprinkle the side dishes evenly over the pizza .
+3991.png,Sprinkle the side dishes evenly over the pizza .
+3992.png,Sprinkle the side dishes evenly over the pizza .
+3993.png,Sprinkle the side dishes evenly over the pizza .
+3994.png,Sprinkle the side dishes evenly over the pizza .
+3995.png,Sprinkle the side dishes evenly over the pizza .
+3996.png,Sprinkle the side dishes evenly over the pizza .
+3997.png,Sprinkle the side dishes evenly over the pizza .
+3998.png,Sprinkle the side dishes evenly over the pizza .
+3999.png,Sprinkle the side dishes evenly over the pizza .
+4000.png,Sprinkle the side dishes evenly over the pizza .
+4001.png,Sprinkle the side dishes evenly over the pizza .
+4002.png,Sprinkle the side dishes evenly over the pizza .
+4003.png,Sprinkle the side dishes evenly over the pizza .
+4004.png,Sprinkle the side dishes evenly over the pizza .
+4005.png,Sprinkle the side dishes evenly over the pizza .
+4006.png,Sprinkle the side dishes evenly over the pizza .
+4007.png,Sprinkle the side dishes evenly over the pizza .
+4008.png,Sprinkle the side dishes evenly over the pizza .
+4009.png,Sprinkle the side dishes evenly over the pizza .
+4010.png,Sprinkle the side dishes evenly over the pizza .
+4011.png,Sprinkle the side dishes evenly over the pizza .
+4028.png,Wash your hands at the sink .
+4029.png,Wash your hands at the sink .
+4030.png,Wash your hands at the sink .
+4031.png,Wash your hands at the sink .
+4032.png,Wash your hands at the sink .
+4033.png,Wash your hands at the sink .
+4034.png,Wash your hands at the sink .
+4035.png,Wash your hands at the sink .
+4036.png,Wash your hands at the sink .
+4037.png,Wash your hands at the sink .
+4038.png,Wash your hands at the sink .
+4039.png,Wash your hands at the sink .
+4040.png,Wash your hands at the sink .
+4041.png,Wash your hands at the sink .
+4042.png,Wash your hands at the sink .
+4043.png,Wash your hands at the sink .
+4044.png,Wash your hands at the sink .
+4045.png,Wash your hands at the sink .
+4050.png,Open the fridge and put the crisper in .
+4051.png,Open the fridge and put the crisper in .
+4068.png,Grab the chopping board and knife and put them in the cupboard. .
+4069.png,Grab the chopping board and knife and put them in the cupboard. .
+4070.png,Grab the chopping board and knife and put them in the cupboard. .
+4071.png,Grab the chopping board and knife and put them in the cupboard. .
+4072.png,Grab the chopping board and knife and put them in the cupboard. .
+4073.png,Grab the chopping board and knife and put them in the cupboard. .
+4074.png,Grab the chopping board and knife and put them in the cupboard. .
+4075.png,Grab the chopping board and knife and put them in the cupboard. .
+4076.png,Grab the chopping board and knife and put them in the cupboard. .
+4077.png,Grab the chopping board and knife and put them in the cupboard. .
+4078.png,Grab the chopping board and knife and put them in the cupboard. .
+4079.png,Grab the chopping board and knife and put them in the cupboard. .
+4080.png,Grab the chopping board and knife and put them in the cupboard. .
+4081.png,Grab the chopping board and knife and put them in the cupboard. .
+4082.png,Grab the chopping board and knife and put them in the cupboard. .
+4091.png,take something out of the cupboard .
+4092.png,take something out of a cupboard .
+4093.png,take something out of the cupboard .
+4094.png,take something out of a cupboard .
+4095.png,take something out of the cupboard .
+4096.png,take something out of a cupboard .
+4097.png,take something out of the cupboard .
+4098.png,take something out of a cupboard .
+4099.png,take something out of the cupboard .
+4100.png,take something out of a cupboard .
+4103.png,take something out of the cupboard .
+4104.png,take something out of a cupboard .
+4105.png,take something out of the cupboard .
+4106.png,take something out of a cupboard .
+4107.png,take something out of the cupboard .
+4108.png,take something out of a cupboard .
+4114.png,Cutting vegetables on a chopping board .
+4115.png,Cutting vegetables on the chopping board .
+4116.png,Cutting vegetables on a chopping board .
+4117.png,Cutting vegetables on the chopping board .
+4118.png,Cutting vegetables on a chopping board .
+4119.png,Cutting vegetables on the chopping board .
+4120.png,Cutting vegetables on a chopping board .
+4121.png,Cutting vegetables on the chopping board .
+4122.png,Cutting vegetables on a chopping board .
+4123.png,Cutting vegetables on the chopping board .
+4124.png,Cutting vegetables on a chopping board .
+4125.png,Cutting vegetables on the chopping board .
+4126.png,Cutting vegetables on a chopping board .
+4127.png,Cutting vegetables on the chopping board .
+4128.png,Cutting vegetables on a chopping board .
+4129.png,Cutting vegetables on the chopping board .
+4130.png,Cutting vegetables on a chopping board .
+4131.png,Cutting vegetables on the chopping board .
+4132.png,Cutting vegetables on a chopping board .
+4133.png,Cutting vegetables on the chopping board .
+4134.png,Cutting vegetables on a chopping board .
+4135.png,Cutting vegetables on the chopping board .
+4136.png,Cutting vegetables on a chopping board .
+4137.png,Cutting vegetables on the chopping board .
+4138.png,Cutting vegetables on a chopping board .
+4139.png,Cutting vegetables on the chopping board .
+4140.png,Cutting vegetables on a chopping board .
+4141.png,Cutting vegetables on the chopping board .
+4142.png,Cutting vegetables on a chopping board .
+4143.png,Cutting vegetables on the chopping board .
+4144.png,Cutting vegetables on a chopping board .
+4145.png,Cutting vegetables on the chopping board .
+4146.png,Cutting vegetables on a chopping board .
+4147.png,Cutting vegetables on the chopping board .
+4148.png,Cutting vegetables on a chopping board .
+4149.png,Cutting vegetables on the chopping board .
+4150.png,Cutting vegetables on a chopping board .
+4151.png,Cutting vegetables on the chopping board .
+4152.png,Cutting vegetables on a chopping board .
+4153.png,Cutting vegetables on the chopping board .
+4154.png,Cutting vegetables on a chopping board .
+4155.png,Cutting vegetables on the chopping board .
+4156.png,Cutting vegetables on a chopping board .
+4157.png,Cutting vegetables on the chopping board .
+4158.png,Cutting vegetables on a chopping board .
+4159.png,Cutting vegetables on the chopping board .
+4160.png,Cutting vegetables on a chopping board .
+4161.png,Cutting vegetables on the chopping board .
+4162.png,Cutting vegetables on a chopping board .
+4163.png,Cutting vegetables on the chopping board .
+4164.png,Cutting vegetables on a chopping board .
+4165.png,Cutting vegetables on the chopping board .
+4166.png,Cutting vegetables on a chopping board .
+4167.png,Cutting vegetables on the chopping board .
+4168.png,Cutting vegetables on a chopping board .
+4169.png,Cutting vegetables on the chopping board .
+4170.png,Cutting vegetables on a chopping board .
+4185.png,Cutting vegetables on the chopping board .
+4186.png,Cutting vegetables on a chopping board .
+4187.png,Cutting vegetables on the chopping board .
+4188.png,Cutting vegetables on a chopping board .
+4189.png,Cutting vegetables on the chopping board .
+4190.png,Cutting vegetables on a chopping board .
+4191.png,Cutting vegetables on the chopping board .
+4192.png,Cutting vegetables on a chopping board .
+4193.png,Cutting vegetables on the chopping board .
+4194.png,Cutting vegetables on a chopping board .
+4195.png,Cutting vegetables on the chopping board .
+4196.png,Cutting vegetables on a chopping board .
+4197.png,Cutting vegetables on the chopping board .
+4198.png,Cutting vegetables on a chopping board .
+4199.png,Cutting vegetables on the chopping board .
+4200.png,Cutting vegetables on a chopping board .
+4201.png,Cutting vegetables on the chopping board .
+4202.png,Cutting vegetables on a chopping board .
+4206.png,Pour the vegetables into a bowl .
+4207.png,Pour the vegetables into a bowl .
+4208.png,Pour the vegetables into a bowl .
+4209.png,Pour the vegetables into a bowl .
+4210.png,Pour the vegetables into a bowl .
+4211.png,Pour the vegetables into a bowl .
+4212.png,Pour the vegetables into a bowl .
+4213.png,Pour the vegetables into a bowl .
+4214.png,Pour the vegetables into a bowl .
+4215.png,Pour the vegetables into a bowl .
+4216.png,Pour the vegetables into a bowl .
+4239.png,Cutting vegetables on a chopping board .
+4240.png,Cutting vegetables on the chopping board .
+4241.png,Cutting vegetables on a chopping board .
+4242.png,Cutting vegetables on the chopping board .
+4243.png,Cutting vegetables on a chopping board .
+4244.png,Cutting vegetables on the chopping board .
+4245.png,Cutting vegetables on a chopping board .
+4246.png,Cutting vegetables on the chopping board .
+4247.png,Cutting vegetables on a chopping board .
+4248.png,Cutting vegetables on the chopping board .
+4249.png,Cutting vegetables on a chopping board .
+4253.png,Cutting vegetables on the chopping board .
+4254.png,Cutting vegetables on a chopping board .
+4255.png,Cutting vegetables on the chopping board .
+4256.png,Cutting vegetables on a chopping board .
+4257.png,Cutting vegetables on the chopping board .
+4258.png,Cutting vegetables on a chopping board .
+4259.png,Cutting vegetables on the chopping board .
+4260.png,Cutting vegetables on a chopping board .
+4261.png,Cutting vegetables on the chopping board .
+4262.png,Cutting vegetables on a chopping board .
+4263.png,Cutting vegetables on the chopping board .
+4264.png,Cutting vegetables on a chopping board .
+4265.png,Cutting vegetables on the chopping board .
+4266.png,Cutting vegetables on a chopping board .
+4267.png,Cutting vegetables on the chopping board .
+4268.png,Cutting vegetables on a chopping board .
+4269.png,Cutting vegetables on the chopping board .
+4270.png,Cutting vegetables on a chopping board .
+4271.png,Cutting vegetables on the chopping board .
+4272.png,Cutting vegetables on a chopping board .
+4273.png,Cutting vegetables on the chopping board .
+4274.png,Cutting vegetables on a chopping board .
+4275.png,Cutting vegetables on the chopping board .
+4276.png,Cutting vegetables on a chopping board .
+4279.png,Wash your hands in the sink. .
+4280.png,Wash your hands in the sink. .
+4281.png,Wash your hands in the sink. .
+4282.png,Wash your hands in the sink. .
+4283.png,Wash your hands in the sink. .
+4284.png,Wash your hands in the sink. .
+4285.png,Wash your hands in the sink. .
+4286.png,Wash your hands in the sink. .
+4287.png,Wash your hands in the sink. .
+4288.png,Wash your hands in the sink. .
+4289.png,Wash your hands in the sink. .
+4290.png,Wash your hands in the sink. .
+4291.png,Wash your hands in the sink. .
+4292.png,Wash your hands in the sink. .
+4293.png,Wash your hands in the sink. .
+4294.png,Wash your hands in the sink. .
+4295.png,Wash your hands in the sink. .
+4296.png,Wash your hands in the sink. .
+4297.png,Wash your hands in the sink. .
+4298.png,Wash your hands in the sink. .
+4299.png,Wash your hands in the sink. .
+4320.png,Put the pizza on a plate and send it to the oven .
+4321.png,Put the pizza on a plate and send it to the oven .
+4322.png,Put the pizza on a plate and send it to the oven .
+4323.png,Put the pizza on a plate and send it to the oven .
+4324.png,Put the pizza on a plate and send it to the oven .
+4325.png,Put the pizza on a plate and send it to the oven .
+4326.png,Put the pizza on a plate and send it to the oven .
+4327.png,Put the pizza on a plate and send it to the oven .
+4328.png,Put the pizza on a plate and send it to the oven .
+4329.png,Put the pizza on a plate and send it to the oven .
+4330.png,Put the pizza on a plate and send it to the oven .
+4331.png,Put the pizza on a plate and send it to the oven .
+4332.png,Put the pizza on a plate and send it to the oven .
+4333.png,Put the pizza on a plate and send it to the oven .
+4334.png,Put the pizza on a plate and send it to the oven .
+4335.png,Put the pizza on a plate and send it to the oven .
+4357.png,Put the pot on the hob. .
+4360.png,Take the cooker out of the drawer. .
+4361.png,Take the cooker out of the drawer. .
+4362.png,Take the cooker out of the drawer. .
+4363.png,Take the cooker out of the drawer. .
+4364.png,Take the cooker out of the drawer. .
+4369.png,Place the pan on the scale. .
+4370.png,Place the pan on the scale. .
+4371.png,Place the pan on the scale. .
+4372.png,Pour the food into the pot. .
+4373.png,Pour the food into the pot. .
+4374.png,Pour the food into the pot. .
+4375.png,Pour the food into the pot. .
+4376.png,Pour the food into the pot. .
+4377.png,Pour the food into the pot. .
+4378.png,Pour the food into the pot. .
+4379.png,Pour the food into the pot. .
+4380.png,Pour the food into the pot. .
+4381.png,Pour the food into the pot. .
+4382.png,Pour the food into the pot. .
+4383.png,Pour the food into the pot. .
+4384.png,Pour the food into the pot. .
+4385.png,Pour the food into the pot. .
+4386.png,Pour the food into the pot. .
+4387.png,Pour the food into the pot. .
+4388.png,Pour the food into the pot. .
+4389.png,Pour the food into the pot. .
+4390.png,Pour the food into the pot. .
+4391.png,Pour the food into the pot. .
+4392.png,Pour the food into the pot. .
+4393.png,Pour the food into the pot. .
+4394.png,Pour the food into the pot. .
+4395.png,Pour the food into the pot. .
+4396.png,Pour the food into the pot. .
+4397.png,Pour the food into the pot. .
+4398.png,Pour the food into the pot. .
+4399.png,Pour the food into the pot. .
+4400.png,Pour the food into the pot. .
+4413.png,Pour the water into the pot. .
+4414.png,Pour the water into the pot. .
+4415.png,Pour the water into the pot. .
+4416.png,Pour the water into the pot. .
+4417.png,Pour the water into the pot. .
+4418.png,Pour the water into the pot. .
+4419.png,Pour the water into the pot. .
+4420.png,Pour the water into the pot. .
+4421.png,Pour the water into the pot. .
+4422.png,Pour the water into the pot. .
+4423.png,Pour the water into the pot. .
+4424.png,Pour the water into the pot. .
+4425.png,Pour the water into the pot. .
+4426.png,Pour the water into the pot. .
+4427.png,Pour the water into the pot. .
+4428.png,Pour the water into the pot. .
+4429.png,Pour the water into the pot. .
+4430.png,Pour the water into the pot. .
+4431.png,Pour the water into the pot. .
+4461.png,clean up the leftovers .
+4462.png,pour out leftovers .
+4463.png,clean up the leftovers .
+4464.png,clean up the leftovers .
+4465.png,pour out leftovers .
+4466.png,clean up the leftovers .
+4467.png,clean up the leftovers .
+4468.png,pour out leftovers .
+4469.png,clean up the leftovers .
+4470.png,clean up the leftovers .
+4471.png,pour out leftovers .
+4472.png,clean up the leftovers .
+4473.png,clean up the leftovers .
+4474.png,pour out leftovers .
+4475.png,clean up the leftovers .
+4476.png,clean up the leftovers .
+4477.png,pour out leftovers .
+4478.png,clean up the leftovers .
+4479.png,clean up the leftovers .
+4480.png,pour out leftovers .
+4481.png,clean up the leftovers .
+4482.png,clean up the leftovers .
+4483.png,pour out leftovers .
+4484.png,clean up the leftovers .
+4485.png,clean up the leftovers .
+4486.png,pour out leftovers .
+4487.png,clean up the leftovers .
+4488.png,clean up the leftovers .
+4489.png,pour out leftovers .
+4490.png,clean up the leftovers .
+4491.png,clean up the leftovers .
+4492.png,pour out leftovers .
+4493.png,clean up the leftovers .
+4494.png,clean up the leftovers .
+4495.png,pour out leftovers .
+4496.png,clean up the leftovers .
+4497.png,clean up the leftovers .
+4498.png,pour out leftovers .
+4499.png,clean up the leftovers .
+4500.png,clean up the leftovers .
+4501.png,pour out leftovers .
+4502.png,clean up the leftovers .
+4503.png,clean up the leftovers .
+4504.png,pour out leftovers .
+4505.png,clean up the leftovers .
+4506.png,clean up the leftovers .
+4507.png,pour out leftovers .
+4508.png,clean up the leftovers .
+4509.png,clean up the leftovers .
+4510.png,pour out leftovers .
+4511.png,clean up the leftovers .
+4512.png,clean up the leftovers .
+4513.png,pour out leftovers .
+4514.png,clean up the leftovers .
+4515.png,clean up the leftovers .
+4516.png,pour out leftovers .
+4517.png,clean up the leftovers .
+4518.png,clean up the leftovers .
+4519.png,pour out leftovers .
+4523.png,take out of a drawer .
+4524.png,take out of a drawer .
+4525.png,take out of a drawer .
+4527.png,Wrap the bowl with the vegetables in cling film .
+4528.png,Wrap the bowl with the vegetables in cling film .
+4529.png,Wrap the bowl with the vegetables in cling film .
+4530.png,Wrap the bowl with the vegetables in cling film .
+4531.png,Wrap the bowl with the vegetables in cling film .
+4532.png,Wrap the bowl with the vegetables in cling film .
+4533.png,Wrap the bowl with the vegetables in cling film .
+4534.png,Wrap the bowl with the vegetables in cling film .
+4535.png,Wrap the bowl with the vegetables in cling film .
+4536.png,Wrap the bowl with the vegetables in cling film .
+4541.png,Wrap the bowl with the vegetables in cling film .
+4542.png,Wrap the bowl with the vegetables in cling film .
+4543.png,Wrap the bowl with the vegetables in cling film .
+4544.png,Wrap the bowl with the vegetables in cling film .
+4545.png,Wrap the bowl with the vegetables in cling film .
+4546.png,Wrap the bowl with the vegetables in cling film .
+4547.png,Wrap the bowl with the vegetables in cling film .
+4548.png,Wrap the bowl with the vegetables in cling film .
+4549.png,Wrap the bowl with the vegetables in cling film .
+4550.png,Wrap the bowl with the vegetables in cling film .
+4551.png,Wrap the bowl with the vegetables in cling film .
+4552.png,Wrap the bowl with the vegetables in cling film .
+4553.png,Wrap the bowl with the vegetables in cling film .
+4554.png,Wrap the bowl with the vegetables in cling film .
+4566.png,Put something in the fridge. .
+4567.png,Put something in the fridge. .
+4568.png,Put something in the fridge. .
+4569.png,Put something in the fridge. .
+4570.png,Put something in the fridge. .
+4571.png,Put something in the fridge. .
+4572.png,Put something in the fridge. .
+4573.png,Put something in the fridge. .
+4574.png,Put something in the fridge. .
+4575.png,Put something in the fridge. .
+4576.png,Put something in the fridge. .
+4577.png,Put something in the fridge. .
+4578.png,Put something in the fridge. .
+4584.png,Cleaning kitchenware at the sink .
+4585.png,Cleaning kitchenware at the sink .
+4586.png,Cleaning out kitchenware at the sink .
+4587.png,Cleaning kitchenware in the sink .
+4588.png,Cleaning kitchenware at the sink .
+4589.png,Cleaning kitchenware at the sink .
+4590.png,Cleaning out kitchenware at the sink .
+4591.png,Cleaning kitchenware in the sink .
+4592.png,Cleaning kitchenware at the sink .
+4593.png,Cleaning kitchenware at the sink .
+4594.png,Cleaning out kitchenware at the sink .
+4595.png,Cleaning kitchenware in the sink .
+4596.png,Cleaning kitchenware at the sink .
+4597.png,Cleaning kitchenware at the sink .
+4598.png,Cleaning out kitchenware at the sink .
+4599.png,Cleaning kitchenware in the sink .
+4600.png,Cleaning kitchenware at the sink .
+4601.png,Cleaning kitchenware at the sink .
+4602.png,Cleaning out kitchenware at the sink .
+4603.png,Cleaning kitchenware in the sink .
+4604.png,Cleaning kitchenware at the sink .
+4605.png,Cleaning kitchenware at the sink .
+4606.png,Cleaning out kitchenware at the sink .
+4607.png,Cleaning kitchenware in the sink .
+4608.png,Cleaning kitchenware at the sink .
+4609.png,Cleaning kitchenware at the sink .
+4610.png,Cleaning out kitchenware at the sink .
+4611.png,Cleaning kitchenware in the sink .
+4612.png,Cleaning kitchenware at the sink .
+4613.png,Cleaning kitchenware at the sink .
+4614.png,Cleaning out kitchenware at the sink .
+4615.png,Cleaning kitchenware in the sink .
+4616.png,Cleaning kitchenware at the sink .
+4617.png,Cleaning kitchenware at the sink .
+4618.png,Cleaning out kitchenware at the sink .
+4619.png,Cleaning kitchenware in the sink .
+4620.png,Cleaning kitchenware at the sink .
+4621.png,Cleaning kitchenware at the sink .
+4622.png,Cleaning out kitchenware at the sink .
+4623.png,Cleaning kitchenware in the sink .
+4624.png,Cleaning kitchenware at the sink .
+4625.png,Cleaning kitchenware at the sink .
+4626.png,Cleaning out kitchenware at the sink .
+4627.png,Cleaning kitchenware in the sink .
+4628.png,Cleaning kitchenware at the sink .
+4629.png,Cleaning kitchenware at the sink .
+4630.png,Cleaning out kitchenware at the sink .
+4631.png,Cleaning kitchenware in the sink .
+4632.png,Cleaning kitchenware at the sink .
+4633.png,Cleaning kitchenware at the sink .
+4634.png,Cleaning out kitchenware at the sink .
+4635.png,Cleaning kitchenware in the sink .
+4636.png,Cleaning kitchenware at the sink .
+4637.png,Cleaning kitchenware at the sink .
+4638.png,Cleaning out kitchenware at the sink .
+4639.png,Cleaning kitchenware in the sink .
+4640.png,Cleaning kitchenware at the sink .
+4641.png,Cleaning kitchenware at the sink .
+4642.png,Cleaning out kitchenware at the sink .
+4643.png,Cleaning kitchenware in the sink .
+4644.png,Cleaning kitchenware at the sink .
+4645.png,Cleaning kitchenware at the sink .
+4646.png,Cleaning out kitchenware at the sink .
+4647.png,Cleaning kitchenware in the sink .
+4648.png,Cleaning kitchenware at the sink .
+4649.png,Cleaning kitchenware at the sink .
+4650.png,Cleaning out kitchenware at the sink .
+4651.png,Cleaning kitchenware in the sink .
+4652.png,Cleaning kitchenware at the sink .
+4653.png,Cleaning kitchenware at the sink .
+4654.png,Cleaning out kitchenware at the sink .
+4655.png,Cleaning kitchenware in the sink .
+4656.png,Cleaning kitchenware at the sink .
+4657.png,Cleaning kitchenware at the sink .
+4658.png,Cleaning out kitchenware at the sink .
+4659.png,Cleaning kitchenware in the sink .
+4660.png,Cleaning kitchenware at the sink .
+4661.png,Cleaning kitchenware at the sink .
+4662.png,Cleaning out kitchenware at the sink .
+4663.png,Cleaning kitchenware in the sink .
+4664.png,Cleaning kitchenware at the sink .
+4665.png,Cleaning kitchenware at the sink .
+4666.png,Cleaning out kitchenware at the sink .
+4667.png,Cleaning kitchenware in the sink .
+4668.png,Cleaning kitchenware at the sink .
+4669.png,Cleaning kitchenware at the sink .
+4670.png,Cleaning out kitchenware at the sink .
+4671.png,Cleaning kitchenware in the sink .
+4672.png,Cleaning kitchenware at the sink .
+4673.png,Cleaning kitchenware at the sink .
+4674.png,Cleaning out kitchenware at the sink .
+4675.png,Cleaning kitchenware in the sink .
+4676.png,Cleaning kitchenware at the sink .
+4677.png,Cleaning kitchenware at the sink .
+4678.png,Cleaning out kitchenware at the sink .
+4679.png,Cleaning kitchenware in the sink .
+4680.png,Cleaning kitchenware at the sink .
+4681.png,Cleaning kitchenware at the sink .
+4682.png,Cleaning out kitchenware at the sink .
+4683.png,Cleaning kitchenware in the sink .
+4684.png,Cleaning kitchenware at the sink .
+4685.png,Cleaning kitchenware at the sink .
+4686.png,Cleaning out kitchenware at the sink .
+4687.png,Cleaning kitchenware in the sink .
+4688.png,Cleaning kitchenware in the sink .
+4689.png,Cleaning kitchenware at the sink .
+4690.png,Cleaning kitchenware at the sink .
+4691.png,Cleaning out kitchenware at the sink .
+4692.png,Cleaning kitchenware in the sink .
+4693.png,Cleaning kitchenware at the sink .
+4694.png,Cleaning kitchenware at the sink .
+4695.png,Cleaning out kitchenware at the sink .
+4696.png,Cleaning kitchenware in the sink .
+4697.png,Cleaning kitchenware in the sink .
+4698.png,Cleaning kitchenware at the sink .
+4699.png,Cleaning kitchenware at the sink .
+4700.png,Cleaning out kitchenware at the sink .
+4701.png,Cleaning kitchenware in the sink .
+4702.png,Cleaning kitchenware at the sink .
+4703.png,Cleaning kitchenware at the sink .
+4704.png,Cleaning out kitchenware at the sink .
+4705.png,Cleaning kitchenware in the sink .
+4706.png,Cleaning kitchenware in the sink .
+4707.png,Cleaning kitchenware at the sink .
+4708.png,Cleaning kitchenware at the sink .
+4709.png,Cleaning out kitchenware at the sink .
+4710.png,Cleaning kitchenware in the sink .
+4711.png,Cleaning kitchenware at the sink .
+4712.png,Cleaning kitchenware at the sink .
+4713.png,Cleaning out kitchenware at the sink .
+4714.png,Cleaning kitchenware in the sink .
+4715.png,Cleaning kitchenware in the sink .
+4716.png,Cleaning kitchenware at the sink .
+4717.png,Cleaning kitchenware at the sink .
+4718.png,Cleaning out kitchenware at the sink .
+4719.png,Cleaning kitchenware in the sink .
+4720.png,Cleaning kitchenware at the sink .
+4721.png,Cleaning kitchenware at the sink .
+4722.png,Cleaning out kitchenware at the sink .
+4723.png,Cleaning kitchenware in the sink .
+4724.png,Cleaning kitchenware in the sink .
+4725.png,Cleaning kitchenware at the sink .
+4726.png,Cleaning kitchenware at the sink .
+4727.png,Cleaning out kitchenware at the sink .
+4728.png,Cleaning kitchenware in the sink .
+4729.png,Cleaning kitchenware at the sink .
+4730.png,Cleaning kitchenware at the sink .
+4731.png,Cleaning out kitchenware at the sink .
+4732.png,Cleaning kitchenware in the sink .
+4733.png,Cleaning kitchenware in the sink .
+4734.png,Cleaning kitchenware at the sink .
+4735.png,Cleaning kitchenware at the sink .
+4736.png,Cleaning out kitchenware at the sink .
+4737.png,Cleaning kitchenware in the sink .
+4738.png,Cleaning kitchenware at the sink .
+4739.png,Cleaning kitchenware at the sink .
+4740.png,Cleaning out kitchenware at the sink .
+4741.png,Cleaning kitchenware in the sink .
+4742.png,Cleaning kitchenware in the sink .
+4744.png,Wipe the table with a rag. .
+4745.png,Wipe the desk with a rag. .
+4746.png,Wipe the table with a rag. .
+4747.png,Wipe the desk with a rag. .
+4748.png,Wipe the table with a rag. .
+4749.png,Wipe the desk with a rag. .
+4750.png,Wipe the table with a rag. .
+4751.png,Wipe the desk with a rag. .
+4752.png,Wipe the table with a rag. .
+4753.png,Wipe the desk with a rag. .
+4754.png,Wipe the table with a rag. .
+4756.png,Clean the sink with a rag .
+4757.png,Cleaning the sink with a rag .
+4758.png,Clean the sink with a rag .
+4759.png,Cleaning the sink with a rag .
+4760.png,Clean the sink with a rag .
+4761.png,Cleaning the sink with a rag .
+4764.png,Wipe the table with a rag. .
+4765.png,Wipe the desk with a rag. .
+4766.png,Wipe the table with a rag. .
+4767.png,Wipe the desk with a rag. .
+4768.png,Wipe the table with a rag. .
+4769.png,Wipe the desk with a rag. .
+4770.png,Wipe the table with a rag. .
+4771.png,Wipe the desk with a rag. .
+4772.png,Clean the cooker with a rag .
+4773.png,Clean the cooker with a rag .
+4774.png,Clean the cooker with a rag .
+4775.png,Clean the cooker with a rag .
+4776.png,Clean the cooker with a rag .
+4777.png,Clean the cooker with a rag .
+4778.png,Clean the cooker with a rag .
+4779.png,Clean the cooker with a rag .
+4780.png,Clean the cooker with a rag .
+4781.png,Clean the cooker with a rag .
+4782.png,Clean the cooker with a rag .
+4783.png,Clean the cooker with a rag .
+4784.png,Clean the cooker with a rag .
+4785.png,Clean the cooker with a rag .
+4786.png,Clean the cooker with a rag .
+4787.png,Clean the cooker with a rag .
+4788.png,Clean the cooker with a rag .
+4789.png,Clean the cooker with a rag .
+4790.png,Clean the cooker with a rag .
+4791.png,Clean the cooker with a rag .
+4792.png,Clean the cooker with a rag .
+4793.png,Clean the cooker with a rag .
+4794.png,Clean the cooker with a rag .
+4795.png,Clean the cooker with a rag .
+4796.png,Clean the cooker with a rag .
+4797.png,Clean the cooker with a rag .
+4798.png,Clean the cooker with a rag .
+4799.png,Clean the cooker with a rag .
+4800.png,Clean the cooker with a rag .
+4801.png,Clean the cooker with a rag .
+4802.png,Clean the sink with a rag .
+4803.png,Cleaning the sink with a rag .
+4804.png,Clean the sink with a rag .
+4805.png,Cleaning the sink with a rag .
+4806.png,Clean the sink with a rag .
+4807.png,Cleaning the sink with a rag .
+4808.png,Clean the sink with a rag .
+4809.png,Cleaning the sink with a rag .
+4810.png,Clean the sink with a rag .
+4811.png,Cleaning the sink with a rag .
+4812.png,Clean the sink with a rag .
+4813.png,Cleaning the sink with a rag .
+4814.png,Clean the sink with a rag .
+4815.png,Cleaning the sink with a rag .
+4816.png,Clean the sink with a rag .
+4817.png,Cleaning the sink with a rag .
+4818.png,Clean the sink with a rag .
+4819.png,Cleaning the sink with a rag .
+4820.png,Clean the sink with a rag .
+4821.png,Cleaning the sink with a rag .
+4822.png,Clean the sink with a rag .
+4823.png,Cleaning the sink with a rag .
+4824.png,Clean the sink with a rag .
+4825.png,Cleaning the sink with a rag .
+4826.png,Clean the sink with a rag .
+4827.png,Cleaning the sink with a rag .
+4828.png,Clean the sink with a rag .
+4829.png,Cleaning the sink with a rag .
+4830.png,Clean the sink with a rag .
+4831.png,Cleaning the sink with a rag .
+4832.png,Clean the sink with a rag .
+4833.png,Cleaning the sink with a rag .
+4834.png,Clean the sink with a rag .
+4835.png,throw something into the rubbish bin .
+4836.png,throw something into the rubbish bin .
+4837.png,throw something into the rubbish bin .
+4838.png,throw something into the rubbish bin .
+4839.png,throw something into the rubbish bin .
+4840.png,throw something into the rubbish bin .
+4841.png,throw something into the rubbish bin .
+4842.png,throw something into the rubbish bin .
+4843.png,throw something into the rubbish bin .
+4844.png,Cleaning the sink with a rag .
+4845.png,Clean the sink with a rag .
+4846.png,Cleaning the sink with a rag .
+4847.png,Clean the sink with a rag .
+4848.png,Cleaning the sink with a rag .
+4849.png,Clean the sink with a rag .
+4850.png,Cleaning the sink with a rag .
+4851.png,Clean the sink with a rag .
+4852.png,Cleaning the sink with a rag .
+4853.png,Clean the sink with a rag .
+4854.png,Cleaning the sink with a rag .
+4855.png,Clean the sink with a rag .
+4856.png,Cleaning the sink with a rag .
+4857.png,Clean the sink with a rag .
+4858.png,Cleaning the sink with a rag .
+4859.png,Clean the sink with a rag .
+4860.png,Cleaning the sink with a rag .
+4861.png,Clean the sink with a rag .
+4862.png,Cleaning the sink with a rag .
+4863.png,Clean the sink with a rag .
+4864.png,Cleaning the sink with a rag .
+4865.png,Clean the sink with a rag .
+4866.png,Cleaning the sink with a rag .
+4867.png,Wipe the table with a rag. .
+4868.png,Wipe the desk with a rag. .
+4869.png,Wipe the table with a rag. .
+4870.png,Wipe the desk with a rag. .
+4871.png,Wipe the table with a rag. .
+4872.png,Wipe the desk with a rag. .
+4873.png,Wipe the table with a rag. .
+4874.png,Wipe the desk with a rag. .
+4875.png,Wipe the table with a rag. .
+4876.png,Wipe the desk with a rag. .
+4877.png,Wipe the table with a rag. .
+4878.png,Wipe the desk with a rag. .
+4879.png,Wipe the table with a rag. .
+4880.png,Wipe the desk with a rag. .
+4881.png,Wipe the table with a rag. .
+4893.png,Wipe the desk with a rag. .
+4894.png,Wipe the table with a rag. .
+4895.png,Wipe the desk with a rag. .
+4896.png,Wipe the table with a rag. .
+4897.png,Wipe the desk with a rag. .
+4898.png,Wipe the table with a rag. .
+4899.png,Wipe the desk with a rag. .
+4900.png,Wipe the table with a rag. .
+4901.png,Wipe the desk with a rag. .
+4902.png,Wipe the table with a rag. .
+4903.png,Wipe the desk with a rag. .
+4904.png,Wipe the table with a rag. .
+4933.png,wipe with a paper towel .
+4934.png,wipe with a paper towel .
+4935.png,wipe with a paper towel .
+4936.png,wipe with a paper towel .
+4937.png,wipe with a paper towel .
+4938.png,wipe with a paper towel .

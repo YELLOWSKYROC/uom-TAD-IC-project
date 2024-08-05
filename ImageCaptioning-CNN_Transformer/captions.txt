@@ -1,0 +1,113 @@
+frame_536.18.jpg: <start> a person holding a wii remote in their hands . <end>
+frame_124.32.jpg: <start> a person is sitting in a chair with a laptop . <end>
+frame_95.85.jpg: <start> a birthday cake with a candle on it and a knife . <end>
+frame_556.87.jpg: <start> a refrigerator with a bottle of beer on it . <end>
+frame_122.44.jpg: <start> a person is holding a pair of scissors . <end>
+frame_58.62.jpg: <start> a table with a cake and a lot of items on it . <end>
+frame_210.26.jpg: <start> a person is holding a skateboard in their hand . <end>
+frame_115.99.jpg: <start> a person cutting a cake with a knife . <end>
+frame_325.49.jpg: <start> a person holding a knife in their hand . <end>
+frame_118.55.jpg: <start> a table with a cake and a cake on it . <end>
+frame_356.83.jpg: <start> a man is standing in a room with a suitcase . <end>
+frame_116.61.jpg: <start> a table with a cake and a laptop on it . <end>
+frame_125.53.jpg: <start> a person is holding a wii remote in their hand . <end>
+frame_366.90.jpg: <start> a person is holding a knife in the kitchen . <end>
+frame_382.22.jpg: <start> a person holding a wii remote in their hands . <end>
+frame_251.62.jpg: <start> a person sitting in a chair with a remote . <end>
+frame_131.68.jpg: <start> a person is holding a pair of scissors in their hands . <end>
+frame_368.36.jpg: <start> a person is holding a remote control in their hand . <end>
+frame_364.31.jpg: <start> a person is holding a pair of scissors . <end>
+frame_259.51.jpg: <start> a person is sitting on a couch with a remote . <end>
+frame_280.75.jpg: <start> a person holding a remote control in their hand . <end>
+frame_332.71.jpg: <start> a person 's hand holding a remote control . <end>
+frame_370.16.jpg: <start> a person 's hand holding a pair of scissors . <end>
+frame_406.90.jpg: <start> a man is taking a picture of a man in a suit . <end>
+frame_321.29.jpg: <start> a person holding a knife in their hand . <end>
+frame_65.51.jpg: <start> a man is standing in front of a toilet . <end>
+frame_215.46.jpg: <start> a person is sitting on a toilet with a remote . <end>
+frame_141.85.jpg: <start> a person is holding a pair of scissors . <end>
+frame_257.26.jpg: <start> a person standing next to a table with a remote . <end>
+frame_376.99.jpg: <start> a person cutting a cake with a knife . <end>
+frame_441.88.jpg: <start> a person is holding a suitcase and a bag . <end>
+frame_402.68.jpg: <start> a person is standing on a skateboard in a room . <end>
+frame_331.31.jpg: <start> a pair of scissors is on a stool . <end>
+frame_113.27.jpg: <start> a person cutting a cake with a knife . <end>
+frame_222.97.jpg: <start> a person holding a box with a remote . <end>
+frame_391.46.jpg: <start> a woman is sitting in a kitchen with her cat . <end>
+frame_181.36.jpg: <start> a person sitting in a chair with a cake <end>
+frame_138.17.jpg: <start> a person is holding a skateboard in their hand . <end>
+frame_322.75.jpg: <start> a pair of scissors sitting on top of a table . <end>
+frame_81.92.jpg: <start> a pair of scissors and a small piece of cake . <end>
+frame_246.00.jpg: <start> a person sitting in a chair with a remote . <end>
+frame_333.04.jpg: <start> a man is holding a pair of scissors in his hands . <end>
+frame_504.30.jpg: <start> a person sitting down with a remote in their hand . <end>
+frame_130.89.jpg: <start> a person is holding a pair of scissors in their hands . <end>
+frame_489.68.jpg: <start> a person is laying down with a cat on their lap . <end>
+frame_330.18.jpg: <start> a person is standing in front of a mirror <end>
+frame_242.92.jpg: <start> a person is sitting in a chair with a laptop . <end>
+frame_513.07.jpg: <start> a man is sitting in a chair with a remote . <end>
+frame_553.17.jpg: <start> a man is holding a box with a pizza in front of him . <end>
+frame_359.09.jpg: <start> a person is sitting on a couch with a remote . <end>
+frame_536.57.jpg: <start> a person cutting a piece of cake on a table . <end>
+frame_1.83.jpg: <start> a person is holding a box with a pizza in it . <end>
+frame_288.54.jpg: <start> a person is holding a box with a box of doughnuts . <end>
+frame_83.01.jpg: <start> a person cutting a cake with a knife . <end>
+frame_63.24.jpg: <start> a man is sitting in a chair with his feet propped up . <end>
+frame_211.28.jpg: <start> a wooden door in a room with a wooden floor . <end>
+frame_145.46.jpg: <start> a person holding a pair of scissors in their hands . <end>
+frame_334.87.jpg: <start> a person is sitting in a bathroom with a towel on the floor . <end>
+frame_396.72.jpg: <start> a teddy bear sitting on a wooden floor . <end>
+frame_404.80.jpg: <start> a person holding a pair of scissors in their hands . <end>
+frame_364.27.jpg: <start> a man is holding a pair of scissors in his hands . <end>
+frame_520.67.jpg: <start> a person is holding a pair of scissors . <end>
+frame_539.37.jpg: <start> a birthday cake with a little girl on top of it . <end>
+frame_370.32.jpg: <start> a person 's hand holding a wii remote control . <end>
+frame_254.70.jpg: <start> a person is sitting in a chair with a laptop . <end>
+frame_343.89.jpg: <start> a small child 's nursery with a suitcase and a bag . <end>
+frame_389.88.jpg: <start> a person is holding a remote control in their hand . <end>
+frame_351.41.jpg: <start> a person is sitting in a chair with a laptop . <end>
+frame_69.61.jpg: <start> a white toilet sitting next to a sink . <end>
+frame_76.19.jpg: <start> a man is sitting on a couch with a remote . <end>
+frame_214.36.jpg: <start> a person laying on a bed with a laptop . <end>
+frame_468.43.jpg: <start> a man is sitting on a couch with a remote . <end>
+frame_407.71.jpg: <start> a person is holding a suitcase with a green door . <end>
+frame_150.67.jpg: <start> a man is putting a tooth brush in his mouth . <end>
+frame_104.17.jpg: <start> a person is eating a piece of pizza at a table . <end>
+frame_256.80.jpg: <start> a person is holding a box with a pair of scissors . <end>
+frame_524.87.jpg: <start> a person 's legs and feet are sitting on a couch . <end>
+frame_112.26.jpg: <start> a pair of scissors and a remote control are on a table . <end>
+frame_113.47.jpg: <start> a birthday cake with a candle on it and a knife . <end>
+frame_226.40.jpg: <start> a person holding a remote control in their hand . <end>
+frame_311.89.jpg: <start> a person is sitting in a chair with a remote . <end>
+frame_161.38.jpg: <start> a person is sitting on a couch with a remote . <end>
+frame_237.76.jpg: <start> a man is taking a picture of himself in the mirror . <end>
+frame_179.22.jpg: <start> a person is sitting on a chair with a pair of scissors . <end>
+frame_242.94.jpg: <start> a suitcase is sitting on a table with a bag on it . <end>
+frame_113.07.jpg: <start> a person is holding a box with a pizza on it . <end>
+frame_194.11.jpg: <start> a person is sitting on a couch with a laptop . <end>
+frame_121.95.jpg: <start> a person is holding a box with a pair of scissors . <end>
+frame_325.80.jpg: <start> a person holding a remote control in their hand . <end>
+frame_458.39.jpg: <start> a man is sitting in a chair with a plate of pizza . <end>
+frame_353.06.jpg: <start> a person is sitting in a bathroom with a pair of scissors . <end>
+frame_330.10.jpg: <start> a person is sitting on a toilet with a suitcase . <end>
+frame_332.83.jpg: <start> a person is holding a remote control in their hand . <end>
+frame_295.91.jpg: <start> a man is sitting in a chair with a laptop . <end>
+frame_490.77.jpg: <start> a person is sitting on a toilet in a bathroom . <end>
+frame_52.58.jpg: <start> a man is holding a remote control in his hand . <end>
+frame_488.04.jpg: <start> a person is holding a box with a pizza in it . <end>
+frame_24.75.jpg: <start> a person sitting at a table with a cake . <end>
+frame_364.79.jpg: <start> a person is holding a pair of scissors . <end>
+frame_401.57.jpg: <start> a pair of scissors and a pair of scissors . <end>
+frame_217.19.jpg: <start> a person is sitting on a suitcase on the floor . <end>
+frame_245.12.jpg: <start> a person is sitting in a chair with a laptop . <end>
+frame_237.55.jpg: <start> a man is laying in a large open suitcase . <end>
+frame_385.46.jpg: <start> a person is holding a remote control . <end>
+frame_428.67.jpg: <start> a person holding a pair of scissors in their hands . <end>
+frame_128.23.jpg: <start> a man is putting a remote in his hand . <end>
+frame_229.20.jpg: <start> a man is sitting in a chair with a remote . <end>
+frame_542.81.jpg: <start> a person is holding a pizza in their hand . <end>
+frame_416.10.jpg: <start> a person holding a remote control in their hand . <end>
+frame_361.30.jpg: <start> a person is holding a pair of scissors . <end>
+frame_173.21.jpg: <start> a man is sitting in a chair with a pair of scissors . <end>
+frame_534.62.jpg: <start> a table topped with a cake and a knife . <end>
+frame_342.26.jpg: <start> a person 's hand is holding a pair of scissors . <end>
